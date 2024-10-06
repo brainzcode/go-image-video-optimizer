@@ -1,0 +1,8 @@
+input_path: "./laundry"
+output_path: "./laundry_landscape_tests"
+width: 1000
+height: 800
+image_size_kb: 70
+video_size_kb: 300
+video_format: ".webp"
+conversion_timeout: 60000
