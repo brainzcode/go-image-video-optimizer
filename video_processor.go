@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"os"
-	"path/filepath"
 	"strings"
 
 	ffmpeg "github.com/u2takey/ffmpeg-go"
@@ -18,7 +17,7 @@ func ProcessVideo(inputFile, outputPath string, config Config, index int) error 
 	}
 
 	// Construct output file name using the output folder name and index
-	outputFile := filepath.Join(outputPath, fmt.Sprintf("%s_%d.%s", filepath.Base(outputPath), index, config.VideoFormat))
+	outputFile := fmt.Sprintf("%s/vid_potrait_tests_%d.mp4", outputPath, index)
 
 	if strings.ToLower(config.VideoFormat) == "gif" {
 		return processGif(inputFile, outputFile, config)
