@@ -368,3 +368,355 @@
 2025/01/14 01:22:44.314894 Successfully processed image: profile/street blackturle neck elbow.jpeg -> corina-david/corina-david_0005.webp
 2025/01/14 01:22:44.315257 Total conversion time: 0.81 seconds
 2025/01/14 01:22:44.315410 Media conversion completed
+2025/02/28 11:25:05.919122 Starting media conversion
+2025/02/28 11:25:05.933903 Image size: 2560x1560, Crop area: 706,0 1148x1560
+2025/02/28 11:25:05.933949 Image size: 2560x4120, Crop area: 0,321 2560x3478
+2025/02/28 11:25:06.966328 Successfully processed image: luminous/image10-visualization.png -> luminous_img/luminous_img_0002.webp
+2025/02/28 11:25:06.968493 Image size: 2560x3062, Crop area: 153,0 2253x3062
+2025/02/28 11:25:15.564193 Successfully processed image: luminous/image11-grounding.png -> luminous_img/luminous_img_0003.webp
+2025/02/28 11:25:15.566902 Image size: 2560x3272, Crop area: 76,0 2408x3272
+2025/02/28 11:25:16.098721 Successfully processed image: luminous/image1- vending services.png -> luminous_img/luminous_img_0001.webp
+2025/02/28 11:25:16.100298 Image size: 2560x3354, Crop area: 46,0 2468x3354
+2025/02/28 11:25:25.360975 Successfully processed image: luminous/image12-forginessmeditation.png -> luminous_img/luminous_img_0004.webp
+2025/02/28 11:25:25.363376 Image size: 2560x3104, Crop area: 138,0 2284x3104
+2025/02/28 11:25:26.610321 Successfully processed image: luminous/image13-flightvisualization.png -> luminous_img/luminous_img_0005.webp
+2025/02/28 11:25:26.611724 Image size: 2560x3246, Crop area: 85,0 2389x3246
+2025/02/28 11:25:34.466601 Successfully processed image: luminous/image14-flighttools.png -> luminous_img/luminous_img_0006.webp
+2025/02/28 11:25:34.468362 Image size: 2560x2356, Crop area: 413,0 1734x2356
+2025/02/28 11:25:36.431695 Successfully processed image: luminous/image15-flightforgiveness.png -> luminous_img/luminous_img_0007.webp
+2025/02/28 11:25:36.435263 Image size: 2560x3430, Crop area: 18,0 2524x3430
+2025/02/28 11:25:40.522428 Successfully processed image: luminous/image16-luminous.png -> luminous_img/luminous_img_0008.webp
+2025/02/28 11:25:40.528363 Image size: 2560x3478, Crop area: 0,0 2560x3478
+2025/02/28 11:26:57.998764 Starting media conversion
+2025/02/28 11:26:58.010425 Image size: 2560x4120, Crop area: 114,0 2332x4120
+2025/02/28 11:26:58.010434 Image size: 2560x1560, Crop area: 838,0 883x1560
+2025/02/28 11:26:59.230466 Successfully processed image: luminous/image10-visualization.png -> luminous_img/luminous_img_0002.webp
+2025/02/28 11:26:59.233238 Image size: 2560x3062, Crop area: 413,0 1733x3062
+2025/02/28 11:27:06.407322 Successfully processed image: luminous/image11-grounding.png -> luminous_img/luminous_img_0003.webp
+2025/02/28 11:27:06.409379 Image size: 2560x3272, Crop area: 354,0 1852x3272
+2025/02/28 11:27:09.924830 Successfully processed image: luminous/image1- vending services.png -> luminous_img/luminous_img_0001.webp
+2025/02/28 11:27:09.926629 Image size: 2560x3354, Crop area: 331,0 1898x3354
+2025/02/28 11:27:14.295999 Successfully processed image: luminous/image12-forginessmeditation.png -> luminous_img/luminous_img_0004.webp
+2025/02/28 11:27:14.298276 Image size: 2560x3104, Crop area: 401,0 1757x3104
+2025/02/28 11:27:18.333695 Successfully processed image: luminous/image13-flightvisualization.png -> luminous_img/luminous_img_0005.webp
+2025/02/28 11:27:18.335521 Image size: 2560x3246, Crop area: 361,0 1837x3246
+2025/02/28 11:27:21.768941 Successfully processed image: luminous/image14-flighttools.png -> luminous_img/luminous_img_0006.webp
+2025/02/28 11:27:21.770510 Image size: 2560x2356, Crop area: 613,0 1333x2356
+2025/02/28 11:27:26.497401 Successfully processed image: luminous/image15-flightforgiveness.png -> luminous_img/luminous_img_0007.webp
+2025/02/28 11:27:26.500012 Image size: 2560x3430, Crop area: 309,0 1941x3430
+2025/02/28 11:27:27.056301 Successfully processed image: luminous/image16-luminous.png -> luminous_img/luminous_img_0008.webp
+2025/02/28 11:27:27.060240 Image size: 2560x3478, Crop area: 296,0 1968x3478
+2025/02/28 11:27:36.322612 Successfully processed image: luminous/image17-sallyreid.png -> luminous_img/luminous_img_0009.webp
+2025/02/28 11:27:36.325296 Image size: 2560x4522, Crop area: 0,0 2560x4522
+2025/02/28 11:27:37.659571 Successfully processed image: luminous/image18-laundrydepot.png -> luminous_img/luminous_img_0010.webp
+2025/02/28 11:27:37.662894 Image size: 2560x3480, Crop area: 295,0 1970x3480
+2025/02/28 11:27:48.462309 Successfully processed image: luminous/image3-haruna.png -> luminous_img/luminous_img_0012.webp
+2025/02/28 11:27:48.464482 Image size: 2560x5514, Crop area: 0,496 2560x4522
+2025/02/28 11:27:49.791584 Successfully processed image: luminous/image2-vendingacademy.png -> luminous_img/luminous_img_0011.webp
+2025/02/28 11:27:49.795373 Image size: 2560x2822, Crop area: 481,0 1597x2822
+2025/02/28 11:27:57.988502 Successfully processed image: luminous/image5-winnerschapel.png -> luminous_img/luminous_img_0014.webp
+2025/02/28 11:27:57.992206 Image size: 2560x3726, Crop area: 225,0 2109x3726
+2025/02/28 11:28:00.755291 Successfully processed image: luminous/image4-thatsrightcoaching.png -> luminous_img/luminous_img_0013.webp
+2025/02/28 11:28:00.757142 Image size: 2560x3180, Crop area: 380,0 1800x3180
+2025/02/28 11:28:08.773232 Successfully processed image: luminous/image7-transform-thatsright.png -> luminous_img/luminous_img_0016.webp
+2025/02/28 11:28:08.774894 Image size: 2560x4048, Crop area: 134,0 2291x4048
+2025/02/28 11:28:10.564494 Successfully processed image: luminous/image6-freshlyfielded.png -> luminous_img/luminous_img_0015.webp
+2025/02/28 11:28:10.565693 Image size: 2560x2212, Crop area: 654,0 1252x2212
+2025/02/28 11:28:13.149666 Successfully processed image: luminous/image9-accountabilitygroup.png -> luminous_img/luminous_img_0018.webp
+2025/02/28 11:28:20.445459 Successfully processed image: luminous/image8-deployfunds.png -> luminous_img/luminous_img_0017.webp
+2025/02/28 11:28:20.445497 Total conversion time: 82.45 seconds
+2025/02/28 11:28:20.445568 Media conversion completed
+2025/02/28 11:29:39.855504 Starting media conversion
+2025/02/28 11:29:39.868865 Image size: 2560x4120, Crop area: 0,510 2560x3100
+2025/02/28 11:29:39.868953 Image size: 2560x1560, Crop area: 636,0 1288x1560
+2025/02/28 11:29:42.594889 Successfully processed image: luminous/image10-visualization.png -> luminous_img/luminous_img_0002.webp
+2025/02/28 11:29:42.596918 Image size: 2560x3062, Crop area: 16,0 2528x3062
+2025/02/28 11:29:51.488514 Successfully processed image: luminous/image1- vending services.png -> luminous_img/luminous_img_0001.webp
+2025/02/28 11:29:51.490604 Image size: 2560x3272, Crop area: 0,86 2560x3100
+2025/02/28 11:29:53.425943 Successfully processed image: luminous/image11-grounding.png -> luminous_img/luminous_img_0003.webp
+2025/02/28 11:29:53.428237 Image size: 2560x3354, Crop area: 0,127 2560x3100
+2025/02/28 11:30:03.050148 Successfully processed image: luminous/image12-forginessmeditation.png -> luminous_img/luminous_img_0004.webp
+2025/02/28 11:30:03.052009 Image size: 2560x3104, Crop area: 0,2 2560x3100
+2025/02/28 11:30:05.115626 Successfully processed image: luminous/image13-flightvisualization.png -> luminous_img/luminous_img_0005.webp
+2025/02/28 11:30:05.116958 Image size: 2560x3246, Crop area: 0,73 2560x3100
+2025/02/28 11:30:14.608327 Successfully processed image: luminous/image14-flighttools.png -> luminous_img/luminous_img_0006.webp
+2025/02/28 11:30:14.610188 Image size: 2560x2356, Crop area: 307,0 1945x2356
+2025/02/28 11:30:16.563654 Successfully processed image: luminous/image15-flightforgiveness.png -> luminous_img/luminous_img_0007.webp
+2025/02/28 11:30:16.568322 Image size: 2560x3430, Crop area: 0,165 2560x3100
+2025/02/28 11:30:22.683759 Successfully processed image: luminous/image16-luminous.png -> luminous_img/luminous_img_0008.webp
+2025/02/28 11:30:22.687656 Image size: 2560x3478, Crop area: 0,189 2560x3100
+2025/02/28 11:30:29.159863 Successfully processed image: luminous/image17-sallyreid.png -> luminous_img/luminous_img_0009.webp
+2025/02/28 11:30:29.162290 Image size: 2560x4522, Crop area: 0,711 2560x3100
+2025/02/28 11:55:08.809022 Starting media conversion
+2025/02/28 11:55:08.825485 Image size: 2560x1560, Crop area: 666,0 1228x1560
+2025/02/28 11:55:08.825505 Image size: 2560x4120, Crop area: 0,434 2560x3251
+2025/02/28 11:55:11.234365 Successfully processed image: luminous/image10-visualization.png -> luminous_img/luminous_img_0002.webp
+2025/02/28 11:55:11.236357 Image size: 2560x3062, Crop area: 75,0 2410x3062
+2025/02/28 11:55:15.755460 Successfully processed image: luminous/image11-grounding.png -> luminous_img/luminous_img_0003.webp
+2025/02/28 11:55:15.758499 Image size: 2560x3272, Crop area: 0,10 2560x3251
+2025/02/28 11:55:22.383756 Successfully processed image: luminous/image12-forginessmeditation.png -> luminous_img/luminous_img_0004.webp
+2025/02/28 11:55:22.386474 Image size: 2560x3354, Crop area: 0,51 2560x3251
+2025/02/28 11:55:23.709696 Successfully processed image: luminous/image1- vending services.png -> luminous_img/luminous_img_0001.webp
+2025/02/28 11:55:23.712062 Image size: 2560x3104, Crop area: 58,0 2443x3104
+2025/02/28 11:55:30.492434 Successfully processed image: luminous/image14-flighttools.png -> luminous_img/luminous_img_0006.webp
+2025/02/28 11:55:30.494926 Image size: 2560x3246, Crop area: 2,0 2555x3246
+2025/02/28 11:55:32.432681 Successfully processed image: luminous/image13-flightvisualization.png -> luminous_img/luminous_img_0005.webp
+2025/02/28 11:55:32.434298 Image size: 2560x2356, Crop area: 353,0 1854x2356
+2025/02/28 11:55:36.420909 Successfully processed image: luminous/image16-luminous.png -> luminous_img/luminous_img_0008.webp
+2025/02/28 11:55:36.424471 Image size: 2560x3430, Crop area: 0,89 2560x3251
+2025/02/28 11:55:36.610607 Successfully processed image: luminous/image15-flightforgiveness.png -> luminous_img/luminous_img_0007.webp
+2025/02/28 11:55:36.615351 Image size: 2560x3478, Crop area: 0,113 2560x3251
+2025/02/28 11:55:51.876522 Successfully processed image: luminous/image17-sallyreid.png -> luminous_img/luminous_img_0009.webp
+2025/02/28 11:55:51.879005 Image size: 2560x4522, Crop area: 0,635 2560x3251
+2025/02/28 11:55:52.124321 Successfully processed image: luminous/image18-laundrydepot.png -> luminous_img/luminous_img_0010.webp
+2025/02/28 11:55:52.129348 Image size: 2560x3480, Crop area: 0,114 2560x3251
+2025/02/28 11:56:03.354996 Successfully processed image: luminous/image2-vendingacademy.png -> luminous_img/luminous_img_0011.webp
+2025/02/28 11:56:03.357276 Image size: 2560x5514, Crop area: 0,1131 2560x3251
+2025/02/28 11:56:06.529712 Successfully processed image: luminous/image4-thatsrightcoaching.png -> luminous_img/luminous_img_0013.webp
+2025/02/28 11:56:06.533154 Image size: 2560x2822, Crop area: 169,0 2221x2822
+2025/02/28 11:56:07.549853 Successfully processed image: luminous/image3-haruna.png -> luminous_img/luminous_img_0012.webp
+2025/02/28 11:56:07.553932 Image size: 2560x3726, Crop area: 0,237 2560x3251
+2025/02/28 11:56:20.888765 Successfully processed image: luminous/image5-winnerschapel.png -> luminous_img/luminous_img_0014.webp
+2025/02/28 11:56:20.890606 Image size: 2560x3180, Crop area: 28,0 2503x3180
+2025/02/28 11:56:26.828775 Successfully processed image: luminous/image6-freshlyfielded.png -> luminous_img/luminous_img_0015.webp
+2025/02/28 11:56:26.831039 Image size: 2560x4048, Crop area: 0,398 2560x3251
+2025/02/28 11:56:27.433216 Successfully processed image: luminous/image7-transform-thatsright.png -> luminous_img/luminous_img_0016.webp
+2025/02/28 11:56:27.434391 Image size: 2560x2212, Crop area: 409,0 1741x2212
+2025/02/28 11:56:30.346358 Successfully processed image: luminous/image9-accountabilitygroup.png -> luminous_img/luminous_img_0018.webp
+2025/02/28 11:56:33.865984 Successfully processed image: luminous/image8-deployfunds.png -> luminous_img/luminous_img_0017.webp
+2025/02/28 11:56:33.866136 Total conversion time: 85.06 seconds
+2025/02/28 11:56:33.866188 Media conversion completed
+2025/02/28 12:09:15.411757 Starting media conversion
+2025/02/28 12:09:15.453133 Image size: 2560x4120, Crop area: 114,0 2332x4120
+2025/02/28 12:09:15.453160 Image size: 2560x1560, Crop area: 838,0 883x1560
+2025/02/28 12:09:20.559346 Successfully processed image: luminous/image10-visualization.png -> luminous_img/luminous_img_0001.webp
+2025/02/28 12:09:20.561973 Image size: 2560x3062, Crop area: 413,0 1733x3062
+2025/02/28 12:09:33.434160 Successfully processed image: luminous/image11-grounding.png -> luminous_img/luminous_img_0003.webp
+2025/02/28 12:09:33.437062 Image size: 2560x3272, Crop area: 354,0 1852x3272
+2025/02/28 12:09:39.403870 Successfully processed image: luminous/image1- vending services.png -> luminous_img/luminous_img_0002.webp
+2025/02/28 12:09:39.406235 Image size: 2560x3354, Crop area: 331,0 1898x3354
+2025/02/28 12:09:46.138614 Successfully processed image: luminous/image12-forginessmeditation.png -> luminous_img/luminous_img_0004.webp
+2025/02/28 12:09:46.141421 Image size: 2560x3104, Crop area: 401,0 1757x3104
+2025/02/28 12:09:51.717556 Successfully processed image: luminous/image13-flightvisualization.png -> luminous_img/luminous_img_0005.webp
+2025/02/28 12:09:51.719700 Image size: 2560x3246, Crop area: 361,0 1837x3246
+2025/02/28 12:09:56.950985 Successfully processed image: luminous/image14-flighttools.png -> luminous_img/luminous_img_0006.webp
+2025/02/28 12:09:56.952948 Image size: 2560x2356, Crop area: 613,0 1333x2356
+2025/02/28 12:10:04.282712 Successfully processed image: luminous/image15-flightforgiveness.png -> luminous_img/luminous_img_0007.webp
+2025/02/28 12:10:04.285650 Image size: 2560x3430, Crop area: 309,0 1941x3430
+2025/02/28 12:10:05.301211 Successfully processed image: luminous/image16-luminous.png -> luminous_img/luminous_img_0008.webp
+2025/02/28 12:10:05.311712 Image size: 2560x3478, Crop area: 296,0 1968x3478
+2025/02/28 12:10:18.064413 Successfully processed image: luminous/image17-sallyreid.png -> luminous_img/luminous_img_0009.webp
+2025/02/28 12:10:18.067906 Image size: 2560x4522, Crop area: 0,0 2560x4522
+2025/02/28 12:10:20.317772 Successfully processed image: luminous/image18-laundrydepot.png -> luminous_img/luminous_img_0010.webp
+2025/02/28 12:10:20.321919 Image size: 2560x3480, Crop area: 295,0 1970x3480
+2025/02/28 12:10:35.718354 Successfully processed image: luminous/image3-haruna.png -> luminous_img/luminous_img_0012.webp
+2025/02/28 12:10:35.721089 Image size: 2560x5514, Crop area: 0,496 2560x4522
+2025/02/28 12:10:37.096958 Successfully processed image: luminous/image2-vendingacademy.png -> luminous_img/luminous_img_0011.webp
+2025/02/28 12:10:37.100448 Image size: 2560x2822, Crop area: 481,0 1597x2822
+2025/02/28 12:10:48.557236 Successfully processed image: luminous/image5-winnerschapel.png -> luminous_img/luminous_img_0014.webp
+2025/02/28 12:10:48.561329 Image size: 2560x3726, Crop area: 225,0 2109x3726
+2025/02/28 12:10:52.336537 Successfully processed image: luminous/image4-thatsrightcoaching.png -> luminous_img/luminous_img_0013.webp
+2025/02/28 12:10:52.338490 Image size: 2560x3180, Crop area: 380,0 1800x3180
+2025/02/28 12:11:03.186430 Successfully processed image: luminous/image7-transform-thatsright.png -> luminous_img/luminous_img_0016.webp
+2025/02/28 12:11:03.188463 Image size: 2560x4048, Crop area: 134,0 2291x4048
+2025/02/28 12:11:05.224323 Successfully processed image: luminous/image6-freshlyfielded.png -> luminous_img/luminous_img_0015.webp
+2025/02/28 12:11:05.225500 Image size: 2560x2212, Crop area: 654,0 1252x2212
+2025/02/28 12:11:08.115950 Successfully processed image: luminous/image9-accountabilitygroup.png -> luminous_img/luminous_img_0018.webp
+2025/02/28 12:11:19.429424 Successfully processed image: luminous/image8-deployfunds.png -> luminous_img/luminous_img_0017.webp
+2025/02/28 12:11:19.430079 Total conversion time: 124.02 seconds
+2025/02/28 12:11:19.430191 Media conversion completed
+2025/02/28 12:12:13.777244 Starting media conversion
+2025/02/28 12:12:13.793686 Image size: 2560x4120, Crop area: 0,353 2560x3413
+2025/02/28 12:12:13.794355 Image size: 2560x1560, Crop area: 695,0 1170x1560
+2025/02/28 12:12:17.608888 Successfully processed image: luminous/image10-visualization.png -> luminous_img/luminous_img_0002.webp
+2025/02/28 12:12:17.610885 Image size: 2560x3062, Crop area: 132,0 2296x3062
+2025/02/28 12:12:31.190392 Successfully processed image: luminous/image1- vending services.png -> luminous_img/luminous_img_0001.webp
+2025/02/28 12:12:31.192803 Image size: 2560x3272, Crop area: 53,0 2454x3272
+2025/02/28 12:12:31.902984 Successfully processed image: luminous/image11-grounding.png -> luminous_img/luminous_img_0003.webp
+2025/02/28 12:12:31.904998 Image size: 2560x3354, Crop area: 22,0 2515x3354
+2025/02/28 12:12:46.939538 Successfully processed image: luminous/image12-forginessmeditation.png -> luminous_img/luminous_img_0004.webp
+2025/02/28 12:12:46.942582 Image size: 2560x3104, Crop area: 116,0 2328x3104
+2025/02/28 12:12:48.667503 Successfully processed image: luminous/image13-flightvisualization.png -> luminous_img/luminous_img_0005.webp
+2025/02/28 12:12:48.669054 Image size: 2560x3246, Crop area: 63,0 2434x3246
+2025/02/28 12:13:01.914462 Successfully processed image: luminous/image14-flighttools.png -> luminous_img/luminous_img_0006.webp
+2025/02/28 12:13:01.916166 Image size: 2560x2356, Crop area: 396,0 1767x2356
+2025/02/28 12:13:04.396062 Successfully processed image: luminous/image15-flightforgiveness.png -> luminous_img/luminous_img_0007.webp
+2025/02/28 12:13:04.400060 Image size: 2560x3430, Crop area: 0,8 2560x3413
+2025/02/28 12:13:12.665778 Successfully processed image: luminous/image16-luminous.png -> luminous_img/luminous_img_0008.webp
+2025/02/28 12:13:12.670691 Image size: 2560x3478, Crop area: 0,32 2560x3413
+2025/02/28 12:13:23.424135 Successfully processed image: luminous/image17-sallyreid.png -> luminous_img/luminous_img_0009.webp
+2025/02/28 12:13:23.427386 Image size: 2560x4522, Crop area: 0,554 2560x3413
+2025/02/28 12:13:32.767466 Successfully processed image: luminous/image18-laundrydepot.png -> luminous_img/luminous_img_0010.webp
+2025/02/28 12:13:32.770978 Image size: 2560x3480, Crop area: 0,33 2560x3413
+2025/02/28 12:13:42.291878 Successfully processed image: luminous/image2-vendingacademy.png -> luminous_img/luminous_img_0011.webp
+2025/02/28 12:13:42.294350 Image size: 2560x5514, Crop area: 0,1050 2560x3413
+2025/02/28 12:13:53.243188 Successfully processed image: luminous/image3-haruna.png -> luminous_img/luminous_img_0012.webp
+2025/02/28 12:13:53.248606 Image size: 2560x2822, Crop area: 222,0 2116x2822
+2025/02/28 12:13:58.044634 Successfully processed image: luminous/image4-thatsrightcoaching.png -> luminous_img/luminous_img_0013.webp
+2025/02/28 12:13:58.048155 Image size: 2560x3726, Crop area: 0,156 2560x3413
+2025/02/28 12:14:09.470530 Successfully processed image: luminous/image5-winnerschapel.png -> luminous_img/luminous_img_0014.webp
+2025/02/28 12:14:09.472773 Image size: 2560x3180, Crop area: 87,0 2385x3180
+2025/02/28 12:14:18.152085 Successfully processed image: luminous/image6-freshlyfielded.png -> luminous_img/luminous_img_0015.webp
+2025/02/28 12:14:18.154408 Image size: 2560x4048, Crop area: 0,317 2560x3413
+2025/02/28 12:14:25.695164 Successfully processed image: luminous/image7-transform-thatsright.png -> luminous_img/luminous_img_0016.webp
+2025/02/28 12:14:25.696782 Image size: 2560x2212, Crop area: 450,0 1659x2212
+2025/02/28 12:14:34.066509 Successfully processed image: luminous/image9-accountabilitygroup.png -> luminous_img/luminous_img_0018.webp
+2025/02/28 12:14:36.556324 Successfully processed image: luminous/image8-deployfunds.png -> luminous_img/luminous_img_0017.webp
+2025/02/28 12:14:36.556367 Total conversion time: 142.78 seconds
+2025/02/28 12:14:36.556488 Media conversion completed
+2025/02/28 12:16:34.621911 Starting media conversion
+2025/02/28 12:16:34.632231 Image size: 2560x3062, Crop area: 329,0 1902x3062
+2025/02/28 12:16:34.632228 Image size: 2560x4120, Crop area: 0,0 2560x4120
+2025/02/28 12:16:44.764323 Successfully processed image: luminous/image11-grounding.png -> luminous-img/luminous-img_0002.webp
+2025/02/28 12:16:44.765175 Image size: 2560x3272, Crop area: 263,0 2033x3272
+2025/02/28 12:16:49.909327 Successfully processed image: luminous/image1- vending services.png -> luminous-img/luminous-img_0001.webp
+2025/02/28 12:16:49.911394 Image size: 2560x3354, Crop area: 238,0 2084x3354
+2025/02/28 12:16:55.953610 Successfully processed image: luminous/image12-forginessmeditation.png -> luminous-img/luminous-img_0003.webp
+2025/02/28 12:16:55.955589 Image size: 2560x3104, Crop area: 316,0 1928x3104
+2025/02/28 12:17:02.045175 Successfully processed image: luminous/image13-flightvisualization.png -> luminous-img/luminous-img_0004.webp
+2025/02/28 12:17:02.047464 Image size: 2560x3246, Crop area: 272,0 2016x3246
+2025/02/28 12:17:06.561224 Successfully processed image: luminous/image14-flighttools.png -> luminous-img/luminous-img_0005.webp
+2025/02/28 12:17:06.563372 Image size: 2560x2356, Crop area: 548,0 1463x2356
+2025/02/28 12:17:13.347903 Successfully processed image: luminous/image15-flightforgiveness.png -> luminous-img/luminous-img_0006.webp
+2025/02/28 12:17:13.351062 Image size: 2560x3430, Crop area: 214,0 2131x3430
+2025/02/28 12:17:13.845461 Successfully processed image: luminous/image16-luminous.png -> luminous-img/luminous-img_0007.webp
+2025/02/28 12:17:13.851218 Image size: 2560x3478, Crop area: 199,0 2161x3478
+2025/02/28 12:17:27.150138 Successfully processed image: luminous/image17-sallyreid.png -> luminous-img/luminous-img_0008.webp
+2025/02/28 12:17:27.154684 Image size: 2560x4522, Crop area: 0,201 2560x4120
+2025/02/28 12:17:28.845470 Successfully processed image: luminous/image18-laundrydepot.png -> luminous-img/luminous-img_0009.webp
+2025/02/28 12:17:28.850181 Image size: 2560x3480, Crop area: 199,0 2162x3480
+2025/02/28 12:17:43.402283 Successfully processed image: luminous/image2-vendingacademy.png -> luminous-img/luminous-img_0010.webp
+2025/02/28 12:17:43.404718 Image size: 2560x5514, Crop area: 0,697 2560x4120
+2025/02/28 12:17:43.788154 Successfully processed image: luminous/image3-haruna.png -> luminous-img/luminous-img_0011.webp
+2025/02/28 12:17:43.791457 Image size: 2560x2822, Crop area: 403,0 1753x2822
+2025/02/28 12:17:55.422316 Successfully processed image: luminous/image5-winnerschapel.png -> luminous-img/luminous-img_0013.webp
+2025/02/28 12:17:55.424774 Image size: 2560x3726, Crop area: 122,0 2315x3726
+2025/02/28 12:17:57.959694 Successfully processed image: luminous/image4-thatsrightcoaching.png -> luminous-img/luminous-img_0012.webp
+2025/02/28 12:17:57.960500 Image size: 2560x3180, Crop area: 292,0 1975x3180
+2025/02/28 12:18:09.073273 Successfully processed image: luminous/image7-transform-thatsright.png -> luminous-img/luminous-img_0015.webp
+2025/02/28 12:18:09.074370 Image size: 2560x4048, Crop area: 22,0 2515x4048
+2025/02/28 12:18:12.381711 Successfully processed image: luminous/image6-freshlyfielded.png -> luminous-img/luminous-img_0014.webp
+2025/02/28 12:18:12.382192 Image size: 2560x2212, Crop area: 593,0 1374x2212
+2025/02/28 12:18:15.360331 Successfully processed image: luminous/image9-accountabilitygroup.png -> luminous-img/luminous-img_0017.webp
+2025/02/28 12:18:25.347351 Successfully processed image: luminous/image8-deployfunds.png -> luminous-img/luminous-img_0016.webp
+2025/02/28 12:18:25.347416 Total conversion time: 110.73 seconds
+2025/02/28 12:18:25.347490 Media conversion completed
+2025/02/28 12:21:30.969659 Starting media conversion
+2025/02/28 12:21:30.980210 Image size: 2560x3062, Crop area: 569,0 1421x3062
+2025/02/28 12:21:30.981009 Image size: 2560x4120, Crop area: 324,0 1912x4120
+2025/02/28 12:21:39.194393 Successfully processed image: luminous/image11-grounding.png -> luminous-img/luminous-img_0001.webp
+2025/02/28 12:21:39.195859 Image size: 2560x3272, Crop area: 520,0 1519x3272
+2025/02/28 12:21:44.936294 Successfully processed image: luminous/image1- vending services.png -> luminous-img/luminous-img_0002.webp
+2025/02/28 12:21:44.938390 Image size: 2560x3354, Crop area: 501,0 1557x3354
+2025/02/28 12:21:48.729171 Successfully processed image: luminous/image12-forginessmeditation.png -> luminous-img/luminous-img_0003.webp
+2025/02/28 12:21:48.730036 Image size: 2560x3104, Crop area: 559,0 1441x3104
+2025/02/28 12:21:55.162090 Successfully processed image: luminous/image13-flightvisualization.png -> luminous-img/luminous-img_0004.webp
+2025/02/28 12:21:55.163146 Image size: 2560x3246, Crop area: 526,0 1507x3246
+2025/02/28 12:21:57.579616 Successfully processed image: luminous/image14-flighttools.png -> luminous-img/luminous-img_0005.webp
+2025/02/28 12:21:57.580573 Image size: 2560x2356, Crop area: 733,0 1093x2356
+2025/02/28 12:22:03.718926 Successfully processed image: luminous/image16-luminous.png -> luminous-img/luminous-img_0007.webp
+2025/02/28 12:22:03.721686 Image size: 2560x3430, Crop area: 484,0 1592x3430
+2025/02/28 12:22:04.873037 Successfully processed image: luminous/image15-flightforgiveness.png -> luminous-img/luminous-img_0006.webp
+2025/02/28 12:22:04.876573 Image size: 2560x3478, Crop area: 473,0 1614x3478
+2025/02/28 12:22:15.430300 Successfully processed image: luminous/image17-sallyreid.png -> luminous-img/luminous-img_0008.webp
+2025/02/28 12:22:15.432584 Image size: 2560x4522, Crop area: 230,0 2099x4522
+2025/02/28 12:22:17.388282 Successfully processed image: luminous/image18-laundrydepot.png -> luminous-img/luminous-img_0009.webp
+2025/02/28 12:22:17.392360 Image size: 2560x3480, Crop area: 472,0 1615x3480
+2025/02/28 12:22:29.645512 Successfully processed image: luminous/image3-haruna.png -> luminous-img/luminous-img_0011.webp
+2025/02/28 12:22:29.647108 Image size: 2560x5514, Crop area: 0,0 2560x5514
+2025/02/28 12:22:32.453664 Successfully processed image: luminous/image2-vendingacademy.png -> luminous-img/luminous-img_0010.webp
+2025/02/28 12:22:32.455366 Image size: 2560x2822, Crop area: 625,0 1310x2822
+2025/02/28 12:22:42.028895 Successfully processed image: luminous/image5-winnerschapel.png -> luminous-img/luminous-img_0013.webp
+2025/02/28 12:22:42.031664 Image size: 2560x3726, Crop area: 415,0 1729x3726
+2025/02/28 12:22:48.937965 Successfully processed image: luminous/image4-thatsrightcoaching.png -> luminous-img/luminous-img_0012.webp
+2025/02/28 12:22:48.938812 Image size: 2560x3180, Crop area: 542,0 1476x3180
+2025/02/28 12:22:56.245858 Successfully processed image: luminous/image6-freshlyfielded.png -> luminous-img/luminous-img_0014.webp
+2025/02/28 12:22:56.247552 Image size: 2560x4048, Crop area: 340,0 1879x4048
+2025/02/28 12:22:57.644395 Successfully processed image: luminous/image7-transform-thatsright.png -> luminous-img/luminous-img_0015.webp
+2025/02/28 12:22:57.644900 Image size: 2560x2212, Crop area: 767,0 1026x2212
+2025/02/28 12:23:00.002332 Successfully processed image: luminous/image9-accountabilitygroup.png -> luminous-img/luminous-img_0017.webp
+2025/02/28 12:23:00.014035 Image size: 2560x4120, Crop area: 324,0 1912x4120
+2025/02/28 12:23:09.647999 Successfully processed image: luminous/image8-deployfunds.png -> luminous-img/luminous-img_0016.webp
+2025/02/28 12:23:14.947758 Successfully processed image: luminous/luminous-img_0001.webp -> luminous-img/luminous-img_0018.webp
+2025/02/28 12:23:14.947820 Total conversion time: 103.98 seconds
+2025/02/28 12:23:14.947905 Media conversion completed
+2025/02/28 12:25:02.574094 Starting media conversion
+2025/02/28 12:25:02.584590 Image size: 2560x4120, Crop area: 114,0 2332x4120
+2025/02/28 12:25:02.584601 Image size: 2560x3062, Crop area: 413,0 1733x3062
+2025/02/28 12:25:12.387784 Successfully processed image: luminous/image11-grounding.png -> luminous-img/luminous-img_0001.webp
+2025/02/28 12:25:12.388715 Image size: 2560x3272, Crop area: 354,0 1852x3272
+2025/02/28 12:25:18.814518 Successfully processed image: luminous/image1- vending services.png -> luminous-img/luminous-img_0002.webp
+2025/02/28 12:25:18.816280 Image size: 2560x3354, Crop area: 331,0 1898x3354
+2025/02/28 12:25:23.185655 Successfully processed image: luminous/image12-forginessmeditation.png -> luminous-img/luminous-img_0003.webp
+2025/02/28 12:25:23.186463 Image size: 2560x3104, Crop area: 401,0 1757x3104
+2025/02/28 12:25:30.336884 Successfully processed image: luminous/image13-flightvisualization.png -> luminous-img/luminous-img_0004.webp
+2025/02/28 12:25:30.338505 Image size: 2560x3246, Crop area: 361,0 1837x3246
+2025/02/28 12:25:33.243287 Successfully processed image: luminous/image14-flighttools.png -> luminous-img/luminous-img_0005.webp
+2025/02/28 12:25:33.243954 Image size: 2560x2356, Crop area: 613,0 1333x2356
+2025/02/28 12:25:40.018107 Successfully processed image: luminous/image16-luminous.png -> luminous-img/luminous-img_0007.webp
+2025/02/28 12:25:40.020009 Image size: 2560x3430, Crop area: 309,0 1941x3430
+2025/02/28 12:25:40.940454 Successfully processed image: luminous/image15-flightforgiveness.png -> luminous-img/luminous-img_0006.webp
+2025/02/28 12:25:40.943973 Image size: 2560x3478, Crop area: 296,0 1968x3478
+2025/02/28 12:25:52.767444 Successfully processed image: luminous/image17-sallyreid.png -> luminous-img/luminous-img_0008.webp
+2025/02/28 12:25:52.769740 Image size: 2560x4522, Crop area: 0,0 2560x4522
+2025/02/28 12:25:54.825734 Successfully processed image: luminous/image18-laundrydepot.png -> luminous-img/luminous-img_0009.webp
+2025/02/28 12:25:54.827397 Image size: 2560x3480, Crop area: 295,0 1970x3480
+2025/02/28 12:26:08.853314 Successfully processed image: luminous/image3-haruna.png -> luminous-img/luminous-img_0011.webp
+2025/02/28 12:26:08.854206 Image size: 2560x5514, Crop area: 0,496 2560x4522
+2025/02/28 12:26:10.359242 Successfully processed image: luminous/image2-vendingacademy.png -> luminous-img/luminous-img_0010.webp
+2025/02/28 12:26:10.361177 Image size: 2560x2822, Crop area: 481,0 1597x2822
+2025/02/28 12:26:21.186727 Successfully processed image: luminous/image5-winnerschapel.png -> luminous-img/luminous-img_0013.webp
+2025/02/28 12:26:21.189618 Image size: 2560x3726, Crop area: 225,0 2109x3726
+2025/02/28 12:26:24.576365 Successfully processed image: luminous/image4-thatsrightcoaching.png -> luminous-img/luminous-img_0012.webp
+2025/02/28 12:26:24.577201 Image size: 2560x3180, Crop area: 380,0 1800x3180
+2025/02/28 12:26:34.854219 Successfully processed image: luminous/image7-transform-thatsright.png -> luminous-img/luminous-img_0015.webp
+2025/02/28 12:26:34.855310 Image size: 2560x4048, Crop area: 134,0 2291x4048
+2025/02/28 12:26:36.845575 Successfully processed image: luminous/image6-freshlyfielded.png -> luminous-img/luminous-img_0014.webp
+2025/02/28 12:26:36.846379 Image size: 2560x2212, Crop area: 654,0 1252x2212
+2025/02/28 12:26:39.556627 Successfully processed image: luminous/image9-accountabilitygroup.png -> luminous-img/luminous-img_0017.webp
+2025/02/28 12:26:39.563330 Image size: 2560x4120, Crop area: 114,0 2332x4120
+2025/02/28 12:26:50.045207 Successfully processed image: luminous/image8-deployfunds.png -> luminous-img/luminous-img_0016.webp
+2025/02/28 12:26:50.074062 Image size: 2099x4522, Crop area: 0,407 2099x3707
+2025/02/28 12:26:57.135806 Successfully processed image: luminous/luminous-img_0001.webp -> luminous-img/luminous-img_0018.webp
+2025/02/28 12:26:57.179172 Image size: 2560x5514, Crop area: 0,496 2560x4522
+2025/02/28 12:27:05.847706 Successfully processed image: luminous/luminous-img_0010.webp -> luminous-img/luminous-img_0019.webp
+2025/02/28 12:27:15.041019 Successfully processed image: luminous/luminous-img_0012.webp -> luminous-img/luminous-img_0020.webp
+2025/02/28 12:27:15.041094 Total conversion time: 132.47 seconds
+2025/02/28 12:27:15.041195 Media conversion completed
+2025/02/28 15:24:13.361398 Starting media conversion
+2025/02/28 15:24:13.387867 Image size: 2560x4120, Crop area: 0,50 2560x4019
+2025/02/28 15:24:13.387888 Image size: 2880x11240, Crop area: 0,3359 2880x4522
+2025/02/28 15:24:32.861644 Successfully processed image: luminous/image1- vending services.png -> luminous-img/luminous-img_0002.webp
+2025/02/28 15:24:32.864546 Image size: 2560x3062, Crop area: 305,0 1950x3062
+2025/02/28 15:24:40.112648 Successfully processed image: luminous/haruna-img.png -> luminous-img/luminous-img_0001.webp
+2025/02/28 15:24:40.115335 Image size: 2560x3272, Crop area: 238,0 2083x3272
+2025/02/28 15:24:45.048475 Successfully processed image: luminous/image11-grounding.png -> luminous-img/luminous-img_0003.webp
+2025/02/28 15:24:45.050789 Image size: 2560x3354, Crop area: 212,0 2136x3354
+2025/02/28 15:24:53.428017 Successfully processed image: luminous/image12-forginessmeditation.png -> luminous-img/luminous-img_0004.webp
+2025/02/28 15:24:53.430495 Image size: 2560x3104, Crop area: 292,0 1976x3104
+2025/02/28 15:24:58.945151 Successfully processed image: luminous/image13-flightvisualization.png -> luminous-img/luminous-img_0005.webp
+2025/02/28 15:24:58.947946 Image size: 2560x3246, Crop area: 246,0 2067x3246
+2025/02/28 15:25:05.826540 Successfully processed image: luminous/image14-flighttools.png -> luminous-img/luminous-img_0006.webp
+2025/02/28 15:25:05.828351 Image size: 2560x2356, Crop area: 530,0 1500x2356
+2025/02/28 15:25:12.137680 Successfully processed image: luminous/image15-flightforgiveness.png -> luminous-img/luminous-img_0007.webp
+2025/02/28 15:25:12.140732 Image size: 2560x3430, Crop area: 188,0 2184x3430
+2025/02/28 15:25:13.956323 Successfully processed image: luminous/image16-luminous.png -> luminous-img/luminous-img_0008.webp
+2025/02/28 15:25:13.960933 Image size: 2560x3478, Crop area: 172,0 2215x3478
+2025/02/28 15:25:27.395427 Successfully processed image: luminous/image17-sallyreid.png -> luminous-img/luminous-img_0009.webp
+2025/02/28 15:25:27.398950 Image size: 2560x4522, Crop area: 0,251 2560x4019
+2025/02/28 15:25:30.705690 Successfully processed image: luminous/image18-laundrydepot.png -> luminous-img/luminous-img_0010.webp
+2025/02/28 15:25:30.708432 Image size: 2560x5514, Crop area: 0,747 2560x4019
+2025/02/28 15:25:47.018266 Successfully processed image: luminous/image2-vendingacademy.png -> luminous-img/luminous-img_0011.webp
+2025/02/28 15:25:47.022186 Image size: 2560x2822, Crop area: 381,0 1797x2822
+2025/02/28 15:25:48.068530 Successfully processed image: luminous/image4-thatsrightcoaching.png -> luminous-img/luminous-img_0012.webp
+2025/02/28 15:25:48.072097 Image size: 2560x3726, Crop area: 93,0 2373x3726
+2025/02/28 15:26:00.258640 Successfully processed image: luminous/image5-winnerschapel.png -> luminous-img/luminous-img_0013.webp
+2025/02/28 15:26:00.261601 Image size: 2560x3180, Crop area: 267,0 2025x3180
+2025/02/28 15:26:07.101132 Successfully processed image: luminous/image6-freshlyfielded.png -> luminous-img/luminous-img_0014.webp
+2025/02/28 15:26:07.103818 Image size: 2560x4048, Crop area: 0,14 2560x4019
+2025/02/28 15:26:12.992689 Successfully processed image: luminous/image7-transform-thatsright.png -> luminous-img/luminous-img_0015.webp
+2025/02/28 15:26:12.993968 Image size: 2560x2212, Crop area: 576,0 1408x2212
+2025/02/28 15:26:16.690390 Successfully processed image: luminous/image9-accountabilitygroup.png -> luminous-img/luminous-img_0017.webp
+2025/02/28 15:26:25.399879 Successfully processed image: luminous/image8-deployfunds.png -> luminous-img/luminous-img_0016.webp
+2025/02/28 15:26:25.399939 Total conversion time: 132.04 seconds
+2025/02/28 15:26:25.400010 Media conversion completed
