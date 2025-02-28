@@ -1,0 +1,370 @@
+2024/12/02 09:03:33.831340 Starting media conversion
+2024/12/02 09:03:33.849966 Image size: 1902x973, Crop area: 677,0 547x973
+2024/12/02 09:03:33.849975 Image size: 1897x967, Crop area: 677,0 543x967
+2024/12/02 09:03:34.000924 Successfully processed image: image/Screenshot 2024-12-01 101005.png -> image_landscape/image_landscape_0001.webp
+2024/12/02 09:03:34.006071 Image size: 1895x940, Crop area: 683,0 528x940
+2024/12/02 09:03:34.023607 Successfully processed image: image/Screenshot 2024-12-01 101125.png -> image_landscape/image_landscape_0002.webp
+2024/12/02 09:03:34.042772 Image size: 1898x970, Crop area: 676,0 545x970
+2024/12/02 09:03:34.160050 Successfully processed image: image/Screenshot 2024-12-01 101153.png -> image_landscape/image_landscape_0003.webp
+2024/12/02 09:03:34.179711 Successfully processed image: image/Screenshot 2024-12-01 101227.png -> image_landscape/image_landscape_0004.webp
+2024/12/02 09:03:34.179875 Image size: 1900x968, Crop area: 678,0 544x968
+2024/12/02 09:03:34.195058 Image size: 1898x971, Crop area: 676,0 546x971
+2024/12/02 09:03:34.316072 Successfully processed image: image/Screenshot 2024-12-01 101340.png -> image_landscape/image_landscape_0005.webp
+2024/12/02 09:03:34.332049 Successfully processed image: image/Screenshot 2024-12-01 101415.png -> image_landscape/image_landscape_0006.webp
+2024/12/02 09:03:34.333257 Image size: 1895x970, Crop area: 675,0 545x970
+2024/12/02 09:03:34.347422 Image size: 1903x967, Crop area: 680,0 543x967
+2024/12/02 09:03:34.459957 Successfully processed image: image/Screenshot 2024-12-01 101453.png -> image_landscape/image_landscape_0007.webp
+2024/12/02 09:03:34.461149 Successfully processed image: image/Screenshot 2024-12-01 110414.png -> image_landscape/image_landscape_0008.webp
+2024/12/02 09:03:34.461399 Total conversion time: 0.63 seconds
+2024/12/02 09:03:34.461573 Media conversion completed
+2024/12/02 09:04:26.987800 Starting media conversion
+2024/12/02 09:04:27.008160 Image size: 1902x973, Crop area: 302,0 1297x973
+2024/12/02 09:04:27.008172 Image size: 1897x967, Crop area: 304,0 1289x967
+2024/12/02 09:04:27.200790 Successfully processed image: image/Screenshot 2024-12-01 101005.png -> image_landscape/image_landscape_0001.webp
+2024/12/02 09:04:27.223313 Image size: 1895x940, Crop area: 321,0 1253x940
+2024/12/02 09:04:27.245986 Successfully processed image: image/Screenshot 2024-12-01 101125.png -> image_landscape/image_landscape_0002.webp
+2024/12/02 09:04:27.252957 Image size: 1898x970, Crop area: 302,0 1293x970
+2024/12/02 09:04:27.433643 Successfully processed image: image/Screenshot 2024-12-01 101153.png -> image_landscape/image_landscape_0003.webp
+2024/12/02 09:04:27.453811 Successfully processed image: image/Screenshot 2024-12-01 101227.png -> image_landscape/image_landscape_0004.webp
+2024/12/02 09:04:27.456872 Image size: 1900x968, Crop area: 305,0 1290x968
+2024/12/02 09:04:27.457484 Image size: 1898x971, Crop area: 302,0 1294x971
+2024/12/02 09:04:27.633051 Successfully processed image: image/Screenshot 2024-12-01 101415.png -> image_landscape/image_landscape_0006.webp
+2024/12/02 09:04:27.638541 Successfully processed image: image/Screenshot 2024-12-01 101340.png -> image_landscape/image_landscape_0005.webp
+2024/12/02 09:04:27.639849 Image size: 1895x970, Crop area: 301,0 1293x970
+2024/12/02 09:04:27.656252 Image size: 1903x967, Crop area: 307,0 1289x967
+2024/12/02 09:04:27.804333 Successfully processed image: image/Screenshot 2024-12-01 110414.png -> image_landscape/image_landscape_0008.webp
+2024/12/02 09:04:27.834700 Successfully processed image: image/Screenshot 2024-12-01 101453.png -> image_landscape/image_landscape_0007.webp
+2024/12/02 09:04:27.835155 Total conversion time: 0.85 seconds
+2024/12/02 09:04:27.835436 Media conversion completed
+2024/12/02 09:09:12.369317 Starting media conversion
+2024/12/02 09:09:12.387501 Image size: 1902x973, Crop area: 0,36 1902x900
+2024/12/02 09:09:12.387534 Image size: 1897x967, Crop area: 0,34 1897x898
+2024/12/02 09:09:13.522303 Successfully processed image: image/Screenshot 2024-12-01 101005.png -> image1_landscape/image1_landscape_0001.webp
+2024/12/02 09:09:13.528358 Image size: 1895x940, Crop area: 0,21 1895x897
+2024/12/02 09:09:14.004767 Successfully processed image: image/Screenshot 2024-12-01 101125.png -> image1_landscape/image1_landscape_0002.webp
+2024/12/02 09:09:14.019713 Image size: 1898x970, Crop area: 0,35 1898x899
+2024/12/02 09:09:14.558806 Successfully processed image: image/Screenshot 2024-12-01 101153.png -> image1_landscape/image1_landscape_0003.webp
+2024/12/02 09:09:14.564308 Image size: 1900x968, Crop area: 0,34 1900x900
+2024/12/02 09:09:14.887949 Successfully processed image: image/Screenshot 2024-12-01 101340.png -> image1_landscape/image1_landscape_0005.webp
+2024/12/02 09:09:14.903421 Image size: 1898x971, Crop area: 0,36 1898x899
+2024/12/02 09:09:15.140894 Successfully processed image: image/Screenshot 2024-12-01 101415.png -> image1_landscape/image1_landscape_0006.webp
+2024/12/02 09:09:15.158098 Image size: 1895x970, Crop area: 0,36 1895x897
+2024/12/02 09:09:15.384044 Successfully processed image: image/Screenshot 2024-12-01 101227.png -> image1_landscape/image1_landscape_0004.webp
+2024/12/02 09:09:15.401166 Successfully processed image: image/Screenshot 2024-12-01 101453.png -> image1_landscape/image1_landscape_0007.webp
+2024/12/02 09:09:15.418383 Image size: 1903x967, Crop area: 0,33 1903x901
+2024/12/02 09:09:15.606847 Successfully processed image: image/Screenshot 2024-12-01 110414.png -> image1_landscape/image1_landscape_0008.webp
+2024/12/02 09:09:15.607204 Total conversion time: 3.24 seconds
+2024/12/02 09:09:15.624418 Media conversion completed
+2024/12/02 09:10:04.714103 Starting media conversion
+2024/12/02 09:10:04.727443 Image size: 1902x973, Crop area: 27,0 1848x973
+2024/12/02 09:10:04.727477 Image size: 1897x967, Crop area: 30,0 1837x967
+2024/12/02 09:10:05.986527 Successfully processed image: image/Screenshot 2024-12-01 101005.png -> image1_landscape/image1_landscape_0001.webp
+2024/12/02 09:10:05.993753 Image size: 1895x940, Crop area: 54,0 1786x940
+2024/12/02 09:10:06.496441 Successfully processed image: image/Screenshot 2024-12-01 101125.png -> image1_landscape/image1_landscape_0002.webp
+2024/12/02 09:10:06.503806 Image size: 1898x970, Crop area: 27,0 1843x970
+2024/12/02 09:10:07.005614 Successfully processed image: image/Screenshot 2024-12-01 101153.png -> image1_landscape/image1_landscape_0003.webp
+2024/12/02 09:10:07.025049 Image size: 1900x968, Crop area: 30,0 1839x968
+2024/12/02 09:10:07.319962 Successfully processed image: image/Screenshot 2024-12-01 101340.png -> image1_landscape/image1_landscape_0005.webp
+2024/12/02 09:10:07.334518 Image size: 1898x971, Crop area: 27,0 1844x971
+2024/12/02 09:10:07.591159 Successfully processed image: image/Screenshot 2024-12-01 101415.png -> image1_landscape/image1_landscape_0006.webp
+2024/12/02 09:10:07.608932 Image size: 1895x970, Crop area: 26,0 1843x970
+2024/12/02 09:10:07.873359 Successfully processed image: image/Screenshot 2024-12-01 101453.png -> image1_landscape/image1_landscape_0007.webp
+2024/12/02 09:10:07.890260 Image size: 1903x967, Crop area: 33,0 1837x967
+2024/12/02 09:10:08.065542 Successfully processed image: image/Screenshot 2024-12-01 101227.png -> image1_landscape/image1_landscape_0004.webp
+2024/12/02 09:10:08.142137 Successfully processed image: image/Screenshot 2024-12-01 110414.png -> image1_landscape/image1_landscape_0008.webp
+2024/12/02 09:10:08.142846 Total conversion time: 3.43 seconds
+2024/12/02 09:10:08.143062 Media conversion completed
+2024/12/02 09:11:39.608834 Starting media conversion
+2024/12/02 09:11:39.627008 Image size: 1897x967, Crop area: 30,0 1837x967
+2024/12/02 09:11:39.627025 Image size: 1902x973, Crop area: 27,0 1848x973
+2024/12/02 09:11:40.879207 Successfully processed image: image/Screenshot 2024-12-01 101005.png -> image1_landscape/image1_landscape_0001.webp
+2024/12/02 09:11:40.883583 Image size: 1895x940, Crop area: 54,0 1786x940
+2024/12/02 09:11:41.365232 Successfully processed image: image/Screenshot 2024-12-01 101125.png -> image1_landscape/image1_landscape_0002.webp
+2024/12/02 09:11:41.386908 Image size: 1898x970, Crop area: 27,0 1843x970
+2024/12/02 09:11:41.883448 Successfully processed image: image/Screenshot 2024-12-01 101153.png -> image1_landscape/image1_landscape_0003.webp
+2024/12/02 09:11:41.896631 Image size: 1900x968, Crop area: 30,0 1839x968
+2024/12/02 09:11:42.178439 Successfully processed image: image/Screenshot 2024-12-01 101340.png -> image1_landscape/image1_landscape_0005.webp
+2024/12/02 09:11:42.180681 Image size: 1898x971, Crop area: 27,0 1844x971
+2024/12/02 09:11:42.438767 Successfully processed image: image/Screenshot 2024-12-01 101415.png -> image1_landscape/image1_landscape_0006.webp
+2024/12/02 09:11:42.450020 Image size: 1895x970, Crop area: 26,0 1843x970
+2024/12/02 09:11:42.704965 Successfully processed image: image/Screenshot 2024-12-01 101453.png -> image1_landscape/image1_landscape_0007.webp
+2024/12/02 09:11:42.707586 Image size: 1903x967, Crop area: 33,0 1837x967
+2024/12/02 09:11:42.906032 Successfully processed image: image/Screenshot 2024-12-01 101227.png -> image1_landscape/image1_landscape_0004.webp
+2024/12/02 09:11:42.960140 Successfully processed image: image/Screenshot 2024-12-01 110414.png -> image1_landscape/image1_landscape_0008.webp
+2024/12/02 09:11:42.960293 Total conversion time: 3.35 seconds
+2024/12/02 09:11:42.960407 Media conversion completed
+2024/12/18 16:51:27.731919 Starting media conversion
+2024/12/18 16:51:27.764200 Image size: 1408x768, Crop area: 4,0 1400x768
+2024/12/18 16:51:27.764274 Image size: 1408x768, Crop area: 4,0 1400x768
+2024/12/18 16:51:28.008112 Successfully processed image: img/IMG_9744.PNG -> img_landscape/img_landscape_0001.webp
+2024/12/18 16:51:28.011778 Successfully processed image: img/IMG_9745.PNG -> img_landscape/img_landscape_0002.webp
+2024/12/18 16:51:28.040632 Image size: 1408x768, Crop area: 4,0 1400x768
+2024/12/18 16:51:28.411545 Successfully processed image: img/IMG_9746.PNG -> img_landscape/img_landscape_0003.webp
+2024/12/18 16:51:28.411750 Total conversion time: 0.68 seconds
+2024/12/18 16:51:28.411909 Media conversion completed
+2025/01/13 00:04:20.540914 Starting media conversion
+2025/01/13 00:04:20.581983 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:20.582022 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:20.779058 Successfully processed image: mach-img-portrait/image_fx_ (2).jpg -> mach-img-port/mach-img-port_0002.webp
+2025/01/13 00:04:20.782528 Successfully processed image: mach-img-portrait/image_fx_ (1).jpg -> mach-img-port/mach-img-port_0001.webp
+2025/01/13 00:04:20.808128 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:20.813488 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:21.016771 Successfully processed image: mach-img-portrait/image_fx_ (23).jpg -> mach-img-port/mach-img-port_0003.webp
+2025/01/13 00:04:21.019302 Successfully processed image: mach-img-portrait/image_fx_ (24).jpg -> mach-img-port/mach-img-port_0004.webp
+2025/01/13 00:04:21.050884 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:21.051957 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:21.228616 Successfully processed image: mach-img-portrait/image_fx_ (26).jpg -> mach-img-port/mach-img-port_0006.webp
+2025/01/13 00:04:21.235695 Successfully processed image: mach-img-portrait/image_fx_ (25).jpg -> mach-img-port/mach-img-port_0005.webp
+2025/01/13 00:04:21.257675 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:21.264744 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:21.450375 Successfully processed image: mach-img-portrait/image_fx_ (28).jpg -> mach-img-port/mach-img-port_0008.webp
+2025/01/13 00:04:21.452064 Successfully processed image: mach-img-portrait/image_fx_ (27).jpg -> mach-img-port/mach-img-port_0007.webp
+2025/01/13 00:04:21.476740 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:21.486512 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:21.668133 Successfully processed image: mach-img-portrait/image_fx_ (29).jpg -> mach-img-port/mach-img-port_0009.webp
+2025/01/13 00:04:21.685303 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:21.765348 Successfully processed image: mach-img-portrait/image_fx_ (3).jpg -> mach-img-port/mach-img-port_0010.webp
+2025/01/13 00:04:21.786794 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:21.872198 Successfully processed image: mach-img-portrait/image_fx_ (30).jpg -> mach-img-port/mach-img-port_0011.webp
+2025/01/13 00:04:21.893647 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:21.975365 Successfully processed image: mach-img-portrait/image_fx_ (31).jpg -> mach-img-port/mach-img-port_0012.webp
+2025/01/13 00:04:21.997657 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:22.088868 Successfully processed image: mach-img-portrait/image_fx_ (36).jpg -> mach-img-port/mach-img-port_0013.webp
+2025/01/13 00:04:22.108954 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:22.183487 Successfully processed image: mach-img-portrait/image_fx_ (37).jpg -> mach-img-port/mach-img-port_0014.webp
+2025/01/13 00:04:22.205937 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:22.304816 Successfully processed image: mach-img-portrait/image_fx_ (38).jpg -> mach-img-port/mach-img-port_0015.webp
+2025/01/13 00:04:22.328812 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:22.382023 Successfully processed image: mach-img-portrait/image_fx_ (39).jpg -> mach-img-port/mach-img-port_0016.webp
+2025/01/13 00:04:22.403401 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:22.516809 Successfully processed image: mach-img-portrait/image_fx_ (4).jpg -> mach-img-port/mach-img-port_0017.webp
+2025/01/13 00:04:22.544500 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:22.586580 Successfully processed image: mach-img-portrait/image_fx_ (40).jpg -> mach-img-port/mach-img-port_0018.webp
+2025/01/13 00:04:22.611015 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:22.737041 Successfully processed image: mach-img-portrait/image_fx_ (41).jpg -> mach-img-port/mach-img-port_0019.webp
+2025/01/13 00:04:22.760479 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:22.788068 Successfully processed image: mach-img-portrait/image_fx_ (42).jpg -> mach-img-port/mach-img-port_0020.webp
+2025/01/13 00:04:22.812849 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:22.947545 Successfully processed image: mach-img-portrait/image_fx_ (43).jpg -> mach-img-port/mach-img-port_0021.webp
+2025/01/13 00:04:22.972885 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:23.000103 Successfully processed image: mach-img-portrait/image_fx_ (5).jpg -> mach-img-port/mach-img-port_0022.webp
+2025/01/13 00:04:23.023028 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:23.209136 Successfully processed image: mach-img-portrait/image_fx_ (51).jpg -> mach-img-port/mach-img-port_0024.webp
+2025/01/13 00:04:23.232577 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:23.316447 Successfully processed image: mach-img-portrait/image_fx_ (50).jpg -> mach-img-port/mach-img-port_0023.webp
+2025/01/13 00:04:23.337117 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:23.431319 Successfully processed image: mach-img-portrait/image_fx_ (52).jpg -> mach-img-port/mach-img-port_0025.webp
+2025/01/13 00:04:23.452908 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:23.516447 Successfully processed image: mach-img-portrait/image_fx_ (56).jpg -> mach-img-port/mach-img-port_0026.webp
+2025/01/13 00:04:23.551998 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:23.633573 Successfully processed image: mach-img-portrait/image_fx_ (57).jpg -> mach-img-port/mach-img-port_0027.webp
+2025/01/13 00:04:23.655895 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:23.728766 Successfully processed image: mach-img-portrait/image_fx_ (58).jpg -> mach-img-port/mach-img-port_0028.webp
+2025/01/13 00:04:23.751493 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:23.847211 Successfully processed image: mach-img-portrait/image_fx_ (59).jpg -> mach-img-port/mach-img-port_0029.webp
+2025/01/13 00:04:23.872948 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:23.939580 Successfully processed image: mach-img-portrait/image_fx_ (6).jpg -> mach-img-port/mach-img-port_0030.webp
+2025/01/13 00:04:23.963432 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:24.065694 Successfully processed image: mach-img-portrait/image_fx_ (60).jpg -> mach-img-port/mach-img-port_0031.webp
+2025/01/13 00:04:24.087281 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:24.145329 Successfully processed image: mach-img-portrait/image_fx_ (61).jpg -> mach-img-port/mach-img-port_0032.webp
+2025/01/13 00:04:24.170265 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:24.260590 Successfully processed image: mach-img-portrait/image_fx_ (62).jpg -> mach-img-port/mach-img-port_0033.webp
+2025/01/13 00:04:24.284746 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:24.358469 Successfully processed image: mach-img-portrait/image_fx_ (63).jpg -> mach-img-port/mach-img-port_0034.webp
+2025/01/13 00:04:24.381690 Image size: 768x1408, Crop area: 0,495 768x418
+2025/01/13 00:04:24.489092 Successfully processed image: mach-img-portrait/image_fx_ (7).jpg -> mach-img-port/mach-img-port_0035.webp
+2025/01/13 00:04:24.571353 Successfully processed image: mach-img-portrait/image_fx_.jpg -> mach-img-port/mach-img-port_0036.webp
+2025/01/13 00:04:24.571696 Total conversion time: 4.03 seconds
+2025/01/13 00:04:24.571936 Media conversion completed
+2025/01/13 00:05:40.982194 Starting media conversion
+2025/01/13 00:05:41.007253 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:41.007295 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:41.505861 Successfully processed image: mach-img-portrait/image_fx_ (2).jpg -> mach-img-port/mach-img-port_0002.webp
+2025/01/13 00:05:41.520162 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:41.756263 Successfully processed image: mach-img-portrait/image_fx_ (1).jpg -> mach-img-port/mach-img-port_0001.webp
+2025/01/13 00:05:41.776826 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:42.020173 Successfully processed image: mach-img-portrait/image_fx_ (23).jpg -> mach-img-port/mach-img-port_0003.webp
+2025/01/13 00:05:42.047115 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:42.291477 Successfully processed image: mach-img-portrait/image_fx_ (24).jpg -> mach-img-port/mach-img-port_0004.webp
+2025/01/13 00:05:42.301937 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:42.416164 Successfully processed image: mach-img-portrait/image_fx_ (25).jpg -> mach-img-port/mach-img-port_0005.webp
+2025/01/13 00:05:42.429315 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:42.540627 Successfully processed image: mach-img-portrait/image_fx_ (26).jpg -> mach-img-port/mach-img-port_0006.webp
+2025/01/13 00:05:42.552394 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:42.912555 Successfully processed image: mach-img-portrait/image_fx_ (28).jpg -> mach-img-port/mach-img-port_0008.webp
+2025/01/13 00:05:42.925540 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:42.942290 Successfully processed image: mach-img-portrait/image_fx_ (27).jpg -> mach-img-port/mach-img-port_0007.webp
+2025/01/13 00:05:42.955982 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:43.428957 Successfully processed image: mach-img-portrait/image_fx_ (29).jpg -> mach-img-port/mach-img-port_0009.webp
+2025/01/13 00:05:43.442612 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:43.820992 Successfully processed image: mach-img-portrait/image_fx_ (30).jpg -> mach-img-port/mach-img-port_0011.webp
+2025/01/13 00:05:43.833336 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:44.081083 Successfully processed image: mach-img-portrait/image_fx_ (3).jpg -> mach-img-port/mach-img-port_0010.webp
+2025/01/13 00:05:44.094878 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:44.187367 Successfully processed image: mach-img-portrait/image_fx_ (31).jpg -> mach-img-port/mach-img-port_0012.webp
+2025/01/13 00:05:44.200252 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:44.709819 Successfully processed image: mach-img-portrait/image_fx_ (37).jpg -> mach-img-port/mach-img-port_0014.webp
+2025/01/13 00:05:44.717618 Successfully processed image: mach-img-portrait/image_fx_ (36).jpg -> mach-img-port/mach-img-port_0013.webp
+2025/01/13 00:05:44.728991 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:44.732371 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:44.974452 Successfully processed image: mach-img-portrait/image_fx_ (39).jpg -> mach-img-port/mach-img-port_0016.webp
+2025/01/13 00:05:44.986103 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:45.487553 Successfully processed image: mach-img-portrait/image_fx_ (38).jpg -> mach-img-port/mach-img-port_0015.webp
+2025/01/13 00:05:45.500611 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:45.502962 Successfully processed image: mach-img-portrait/image_fx_ (4).jpg -> mach-img-port/mach-img-port_0017.webp
+2025/01/13 00:05:45.517537 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:45.977749 Successfully processed image: mach-img-portrait/image_fx_ (40).jpg -> mach-img-port/mach-img-port_0018.webp
+2025/01/13 00:05:45.989484 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:46.367368 Successfully processed image: mach-img-portrait/image_fx_ (41).jpg -> mach-img-port/mach-img-port_0019.webp
+2025/01/13 00:05:46.379356 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:46.488246 Successfully processed image: mach-img-portrait/image_fx_ (42).jpg -> mach-img-port/mach-img-port_0020.webp
+2025/01/13 00:05:46.506240 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:46.982351 Successfully processed image: mach-img-portrait/image_fx_ (43).jpg -> mach-img-port/mach-img-port_0021.webp
+2025/01/13 00:05:47.009870 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:47.217908 Successfully processed image: mach-img-portrait/image_fx_ (5).jpg -> mach-img-port/mach-img-port_0022.webp
+2025/01/13 00:05:47.228966 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:47.726964 Successfully processed image: mach-img-portrait/image_fx_ (51).jpg -> mach-img-port/mach-img-port_0024.webp
+2025/01/13 00:05:47.738944 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:48.229517 Successfully processed image: mach-img-portrait/image_fx_ (50).jpg -> mach-img-port/mach-img-port_0023.webp
+2025/01/13 00:05:48.243817 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:48.612429 Successfully processed image: mach-img-portrait/image_fx_ (56).jpg -> mach-img-port/mach-img-port_0026.webp
+2025/01/13 00:05:48.635019 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:48.914543 Successfully processed image: mach-img-portrait/image_fx_ (52).jpg -> mach-img-port/mach-img-port_0025.webp
+2025/01/13 00:05:48.925852 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:48.986455 Successfully processed image: mach-img-portrait/image_fx_ (57).jpg -> mach-img-port/mach-img-port_0027.webp
+2025/01/13 00:05:49.000990 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:49.290330 Successfully processed image: mach-img-portrait/image_fx_ (58).jpg -> mach-img-port/mach-img-port_0028.webp
+2025/01/13 00:05:49.302468 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:49.363724 Successfully processed image: mach-img-portrait/image_fx_ (59).jpg -> mach-img-port/mach-img-port_0029.webp
+2025/01/13 00:05:49.379029 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:49.822014 Successfully processed image: mach-img-portrait/image_fx_ (6).jpg -> mach-img-port/mach-img-port_0030.webp
+2025/01/13 00:05:49.834415 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:49.997723 Successfully processed image: mach-img-portrait/image_fx_ (60).jpg -> mach-img-port/mach-img-port_0031.webp
+2025/01/13 00:05:50.006941 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:50.244732 Successfully processed image: mach-img-portrait/image_fx_ (62).jpg -> mach-img-port/mach-img-port_0033.webp
+2025/01/13 00:05:50.255898 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:50.320512 Successfully processed image: mach-img-portrait/image_fx_ (61).jpg -> mach-img-port/mach-img-port_0032.webp
+2025/01/13 00:05:50.334389 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:50.628315 Successfully processed image: mach-img-portrait/image_fx_ (63).jpg -> mach-img-port/mach-img-port_0034.webp
+2025/01/13 00:05:50.641004 Image size: 768x1408, Crop area: 0,0 768x1408
+2025/01/13 00:05:50.959607 Successfully processed image: mach-img-portrait/image_fx_ (7).jpg -> mach-img-port/mach-img-port_0035.webp
+2025/01/13 00:05:51.108442 Successfully processed image: mach-img-portrait/image_fx_.jpg -> mach-img-port/mach-img-port_0036.webp
+2025/01/13 00:05:51.109059 Total conversion time: 10.13 seconds
+2025/01/13 00:05:51.109567 Media conversion completed
+2025/01/13 00:07:17.110316 Starting media conversion
+2025/01/13 00:07:17.154968 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:17.154999 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:17.497158 Successfully processed image: mach-img-landscape/image_fx_ (10).jpg -> mach-img-lands/mach-img-lands_0001.webp
+2025/01/13 00:07:17.522297 Successfully processed image: mach-img-landscape/image_fx_ (11).jpg -> mach-img-lands/mach-img-lands_0002.webp
+2025/01/13 00:07:17.539500 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:17.549520 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:17.909494 Successfully processed image: mach-img-landscape/image_fx_ (12).jpg -> mach-img-lands/mach-img-lands_0003.webp
+2025/01/13 00:07:17.919665 Successfully processed image: mach-img-landscape/image_fx_ (13).jpg -> mach-img-lands/mach-img-lands_0004.webp
+2025/01/13 00:07:17.948246 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:17.952563 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:18.193349 Successfully processed image: mach-img-landscape/image_fx_ (15).jpg -> mach-img-lands/mach-img-lands_0006.webp
+2025/01/13 00:07:18.216499 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:18.433502 Successfully processed image: mach-img-landscape/image_fx_ (14).jpg -> mach-img-lands/mach-img-lands_0005.webp
+2025/01/13 00:07:18.454747 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:18.607570 Successfully processed image: mach-img-landscape/image_fx_ (16).jpg -> mach-img-lands/mach-img-lands_0007.webp
+2025/01/13 00:07:18.631211 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:18.706927 Successfully processed image: mach-img-landscape/image_fx_ (17).jpg -> mach-img-lands/mach-img-lands_0008.webp
+2025/01/13 00:07:18.731688 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:18.888859 Successfully processed image: mach-img-landscape/image_fx_ (18).jpg -> mach-img-lands/mach-img-lands_0009.webp
+2025/01/13 00:07:18.914894 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:19.173830 Successfully processed image: mach-img-landscape/image_fx_ (20).jpg -> mach-img-lands/mach-img-lands_0011.webp
+2025/01/13 00:07:19.206761 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:19.225903 Successfully processed image: mach-img-landscape/image_fx_ (19).jpg -> mach-img-lands/mach-img-lands_0010.webp
+2025/01/13 00:07:19.252160 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:19.628260 Successfully processed image: mach-img-landscape/image_fx_ (22).jpg -> mach-img-lands/mach-img-lands_0013.webp
+2025/01/13 00:07:19.662068 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:19.705293 Successfully processed image: mach-img-landscape/image_fx_ (21).jpg -> mach-img-lands/mach-img-lands_0012.webp
+2025/01/13 00:07:19.728119 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:20.023457 Successfully processed image: mach-img-landscape/image_fx_ (32).jpg -> mach-img-lands/mach-img-lands_0014.webp
+2025/01/13 00:07:20.061367 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:20.215371 Successfully processed image: mach-img-landscape/image_fx_ (33).jpg -> mach-img-lands/mach-img-lands_0015.webp
+2025/01/13 00:07:20.237144 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:20.418896 Successfully processed image: mach-img-landscape/image_fx_ (34).jpg -> mach-img-lands/mach-img-lands_0016.webp
+2025/01/13 00:07:20.443166 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:20.804795 Successfully processed image: mach-img-landscape/image_fx_ (44).jpg -> mach-img-lands/mach-img-lands_0018.webp
+2025/01/13 00:07:20.829282 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:20.858278 Successfully processed image: mach-img-landscape/image_fx_ (35).jpg -> mach-img-lands/mach-img-lands_0017.webp
+2025/01/13 00:07:20.885136 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:21.058622 Successfully processed image: mach-img-landscape/image_fx_ (45).jpg -> mach-img-lands/mach-img-lands_0019.webp
+2025/01/13 00:07:21.081915 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:21.106557 Successfully processed image: mach-img-landscape/image_fx_ (46).jpg -> mach-img-lands/mach-img-lands_0020.webp
+2025/01/13 00:07:21.132064 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:21.676735 Successfully processed image: mach-img-landscape/image_fx_ (47).jpg -> mach-img-lands/mach-img-lands_0021.webp
+2025/01/13 00:07:21.703769 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:22.208569 Successfully processed image: mach-img-landscape/image_fx_ (48).jpg -> mach-img-lands/mach-img-lands_0022.webp
+2025/01/13 00:07:22.247235 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:22.399116 Successfully processed image: mach-img-landscape/image_fx_ (49).jpg -> mach-img-lands/mach-img-lands_0023.webp
+2025/01/13 00:07:22.426937 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:22.483982 Successfully processed image: mach-img-landscape/image_fx_ (53).jpg -> mach-img-lands/mach-img-lands_0024.webp
+2025/01/13 00:07:22.527364 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:22.819171 Successfully processed image: mach-img-landscape/image_fx_ (54).jpg -> mach-img-lands/mach-img-lands_0025.webp
+2025/01/13 00:07:22.844783 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:22.976131 Successfully processed image: mach-img-landscape/image_fx_ (64).jpg -> mach-img-lands/mach-img-lands_0027.webp
+2025/01/13 00:07:22.998033 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:23.228909 Successfully processed image: mach-img-landscape/image_fx_ (65).jpg -> mach-img-lands/mach-img-lands_0028.webp
+2025/01/13 00:07:23.251408 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:23.294775 Successfully processed image: mach-img-landscape/image_fx_ (55).jpg -> mach-img-lands/mach-img-lands_0026.webp
+2025/01/13 00:07:23.319111 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:23.590415 Successfully processed image: mach-img-landscape/image_fx_ (67).jpg -> mach-img-lands/mach-img-lands_0030.webp
+2025/01/13 00:07:23.612742 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:23.634180 Successfully processed image: mach-img-landscape/image_fx_ (66).jpg -> mach-img-lands/mach-img-lands_0029.webp
+2025/01/13 00:07:23.659630 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:23.839743 Successfully processed image: mach-img-landscape/image_fx_ (68).jpg -> mach-img-lands/mach-img-lands_0031.webp
+2025/01/13 00:07:23.867311 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:25.611984 Successfully processed image: mach-img-landscape/image_fx_ (70).jpg -> mach-img-lands/mach-img-lands_0033.webp
+2025/01/13 00:07:25.637429 Successfully processed image: mach-img-landscape/image_fx_ (69).jpg -> mach-img-lands/mach-img-lands_0032.webp
+2025/01/13 00:07:25.639130 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:25.667705 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:27.646820 Successfully processed image: mach-img-landscape/image_fx_ (71).jpg -> mach-img-lands/mach-img-lands_0034.webp
+2025/01/13 00:07:27.685968 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:27.748746 Successfully processed image: mach-img-landscape/image_fx_ (72).jpg -> mach-img-lands/mach-img-lands_0035.webp
+2025/01/13 00:07:27.771966 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:29.586344 Successfully processed image: mach-img-landscape/image_fx_ (73).jpg -> mach-img-lands/mach-img-lands_0036.webp
+2025/01/13 00:07:29.611633 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:29.682281 Successfully processed image: mach-img-landscape/image_fx_ (74).jpg -> mach-img-lands/mach-img-lands_0037.webp
+2025/01/13 00:07:29.713890 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:30.788694 Successfully processed image: mach-img-landscape/image_fx_ (76).jpg -> mach-img-lands/mach-img-lands_0039.webp
+2025/01/13 00:07:30.814436 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:31.189442 Successfully processed image: mach-img-landscape/image_fx_ (77).jpg -> mach-img-lands/mach-img-lands_0040.webp
+2025/01/13 00:07:31.217916 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:31.382348 Successfully processed image: mach-img-landscape/image_fx_ (75).jpg -> mach-img-lands/mach-img-lands_0038.webp
+2025/01/13 00:07:31.416541 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:31.466139 Successfully processed image: mach-img-landscape/image_fx_ (78).jpg -> mach-img-lands/mach-img-lands_0041.webp
+2025/01/13 00:07:31.485247 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:31.771103 Successfully processed image: mach-img-landscape/image_fx_ (79).jpg -> mach-img-lands/mach-img-lands_0042.webp
+2025/01/13 00:07:31.794379 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:31.850633 Successfully processed image: mach-img-landscape/image_fx_ (8).jpg -> mach-img-lands/mach-img-lands_0043.webp
+2025/01/13 00:07:31.872778 Image size: 1408x768, Crop area: 0,0 1408x768
+2025/01/13 00:07:32.172744 Successfully processed image: mach-img-landscape/image_fx_ (80).jpg -> mach-img-lands/mach-img-lands_0044.webp
+2025/01/13 00:07:32.234455 Successfully processed image: mach-img-landscape/image_fx_ (9).jpg -> mach-img-lands/mach-img-lands_0045.webp
+2025/01/13 00:07:32.234671 Total conversion time: 15.12 seconds
+2025/01/13 00:07:32.235049 Media conversion completed
+2025/01/13 02:46:33.959728 Starting media conversion
+2025/01/13 02:46:33.968495 compiled command: ffmpeg -i mach-vid/6777397d483906476uDhy4xzkO1764.mp4 -filter_complex [0]scale=1408:768[s0] -map [s0] -b:v 5000k -c:a aac -c:v libx264 -crf 23 -preset medium mach-vid-lands/vid_potrait_tests_0.mp4 -y
+2025/01/13 02:46:33.968510 compiled command: ffmpeg -i mach-vid/677739fe141489409Xsdvq4j0J8453.mp4 -filter_complex [0]scale=1408:768[s0] -map [s0] -b:v 5000k -c:a aac -c:v libx264 -crf 23 -preset medium mach-vid-lands/vid_potrait_tests_1.mp4 -y
+2025/01/13 02:46:36.697753 compiled command: ffmpeg -i mach-vid/67773a00108642592MLcjRFiLo4489.mp4 -filter_complex [0]scale=1408:768[s0] -map [s0] -b:v 5000k -c:a aac -c:v libx264 -crf 23 -preset medium mach-vid-lands/vid_potrait_tests_2.mp4 -y
+2025/01/13 02:46:36.830864 compiled command: ffmpeg -i mach-vid/6784ee4b1115815031U1nGdfkj2608.mp4 -filter_complex [0]scale=1408:768[s0] -map [s0] -b:v 5000k -c:a aac -c:v libx264 -crf 23 -preset medium mach-vid-lands/vid_potrait_tests_3.mp4 -y
+2025/01/13 02:46:39.114330 compiled command: ffmpeg -i mach-vid/Professional_Mode_16x9_Beautiful_Lady_Walking_towards_t.mp4 -filter_complex [0]scale=1408:768[s0] -map [s0] -b:v 5000k -c:a aac -c:v libx264 -crf 23 -preset medium mach-vid-lands/vid_potrait_tests_4.mp4 -y
+2025/01/13 02:46:40.987776 Total conversion time: 7.03 seconds
+2025/01/13 02:46:40.988092 Media conversion completed
+2025/01/14 01:22:43.508589 Starting media conversion
+2025/01/14 01:22:43.572460 Image size: 1024x1024, Crop area: 0,0 1024x1024
+2025/01/14 01:22:43.572471 Image size: 1024x1024, Crop area: 0,0 1024x1024
+2025/01/14 01:22:43.749420 Successfully processed image: profile/black button boat elbow.jpeg -> corina-david/corina-david_0001.webp
+2025/01/14 01:22:43.765576 Image size: 1024x1024, Crop area: 0,0 1024x1024
+2025/01/14 01:22:43.841735 Successfully processed image: profile/black turtleneck office 3 buff.jpeg -> corina-david/corina-david_0002.webp
+2025/01/14 01:22:43.863782 Image size: 1024x1024, Crop area: 0,0 1024x1024
+2025/01/14 01:22:43.934834 Successfully processed image: profile/blue blazer boat 2 elbow.jpeg -> corina-david/corina-david_0003.webp
+2025/01/14 01:22:43.952413 Image size: 1024x1024, Crop area: 0,0 1024x1024
+2025/01/14 01:22:44.040034 Successfully processed image: profile/blue blazer office.jpeg -> corina-david/corina-david_0004.webp
+2025/01/14 01:22:44.059577 Image size: 1024x1024, Crop area: 0,0 1024x1024
+2025/01/14 01:22:44.234273 Successfully processed image: profile/street blackturle neck half body.jpeg -> corina-david/corina-david_0006.webp
+2025/01/14 01:22:44.314894 Successfully processed image: profile/street blackturle neck elbow.jpeg -> corina-david/corina-david_0005.webp
+2025/01/14 01:22:44.315257 Total conversion time: 0.81 seconds
+2025/01/14 01:22:44.315410 Media conversion completed

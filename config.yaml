@@ -1,7 +1,7 @@
-input_path: "./vid"
-output_path: "./vid_potraits"
-width: 720
-height: 1280
+input_path: "./profile"
+output_path: "./corina-david"
+width: 1024
+height: 1024
 image_size_kb: 70
 video_size_kb: 5000
 video_format: "mp4"
