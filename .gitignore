@@ -10,8 +10,12 @@ mach-vid/
 mach-img-landscape/
 mach-img-port/
 mach-img-portrait/
+<<<<<<< HEAD
 profile/
 luminous-img/
 luminous/
 luminous_img/
 .DS_Store
+=======
+profile/
+>>>>>>> origin/main

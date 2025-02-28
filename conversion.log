@@ -368,6 +368,7 @@
 2025/01/14 01:22:44.314894 Successfully processed image: profile/street blackturle neck elbow.jpeg -> corina-david/corina-david_0005.webp
 2025/01/14 01:22:44.315257 Total conversion time: 0.81 seconds
 2025/01/14 01:22:44.315410 Media conversion completed
+<<<<<<< HEAD
 2025/02/28 11:25:05.919122 Starting media conversion
 2025/02/28 11:25:05.933903 Image size: 2560x1560, Crop area: 706,0 1148x1560
 2025/02/28 11:25:05.933949 Image size: 2560x4120, Crop area: 0,321 2560x3478
@@ -720,3 +721,5 @@
 2025/02/28 15:26:25.399879 Successfully processed image: luminous/image8-deployfunds.png -> luminous-img/luminous-img_0016.webp
 2025/02/28 15:26:25.399939 Total conversion time: 132.04 seconds
 2025/02/28 15:26:25.400010 Media conversion completed
+=======
+>>>>>>> origin/main
