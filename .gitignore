@@ -1,30 +1,97 @@
-corina-david/
-image/
-image_landscape/
-image1_landscape/
-img/
-img_landscape/
-mach-img-lands/
-mach-vid-lands/
-mach-vid/
-mach-img-landscape/
-mach-img-port/
-mach-img-portrait/
-profile/
-luminous-img/
+# Compiled binaries
+app
+optimizer
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go build artifacts
+*.test
+*.out
+go.work
+
+# Image and video directories
+advideo/
+advideo-vid/
 luminous/
 luminous_img/
-.DS_Store
+luminous-img/
+machines/
+machines-img/
 worldover-img/
 worldover-landscape/
-advideo-vid/
-advideo/
-<<<<<<< HEAD
-profile/
-luminous-img/
-luminous/
-luminous_img/
+
+# Log files
+*.log
+conversion.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# OS generated files
 .DS_Store
-=======
-profile/
->>>>>>> origin/main
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.atom/
+.brackets.json
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Dependency directories
+vendor/
+
+# Test coverage
+*.coverage
+coverage.txt
+coverage.html
+
+# Cache files
+*.cache
+
+# Large media files (by extension)
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+*.wmv
+*.webm
+*.m4v
+*.3gp
+*.gif
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.tiff
+*.bmp
+*.dng
+*.raw
+
+# Backup files
+*.bak
+*.backup
+
+# Runtime files
+*.pid
+*.seed
+*.pid.lock 
