@@ -21,7 +21,9 @@ luminous-img/
 machines/
 machines-img/
 worldover-img/
+worldover-img-batches/
 worldover-landscape/
+worldover-landscape-batches/
 
 # Log files
 *.log
