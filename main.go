@@ -1,12 +1,12 @@
 package main
 
 import (
-	"C"
 	"context"
 	"fmt"
 	"log"
 	"os"
 	"path/filepath"
+	"runtime"
 	"sync"
 	"time"
 
@@ -22,6 +22,8 @@ type Config struct {
 	VideoSizeKB       int    `yaml:"video_size_kb"`
 	VideoFormat       string `yaml:"video_format"`
 	ConversionTimeout int    `yaml:"conversion_timeout"` // Timeout in milliseconds
+	MaxBatchSize      int    `yaml:"max_batch_size"`     // Maximum files per batch
+	MaxWorkers        int    `yaml:"max_workers"`        // Maximum concurrent workers
 }
 
 func main() {
@@ -64,18 +66,68 @@ func readConfig(filename string) (Config, error) {
 }
 
 func processFiles(config Config) {
+	// Collect all files first
+	var allFiles []string
+	err := filepath.Walk(config.InputPath, func(path string, info os.FileInfo, err error) error {
+		if err != nil {
+			return err
+		}
+		if !info.IsDir() {
+			allFiles = append(allFiles, path)
+		}
+		return nil
+	})
+
+	if err != nil {
+		log.Printf("Error walking through directory: %v\n", err)
+		return
+	}
+
+	log.Printf("Found %d files to process\n", len(allFiles))
+
+	// Process files in batches to prevent memory exhaustion
+	batchSize := config.MaxBatchSize
+	if batchSize <= 0 {
+		batchSize = 5 // Default to 5 files at a time
+	}
+
+	numWorkers := config.MaxWorkers
+	if numWorkers <= 0 {
+		numWorkers = 1 // Default to 1 worker for image processing to avoid memory issues
+	}
+
+	for i := 0; i < len(allFiles); i += batchSize {
+		end := i + batchSize
+		if end > len(allFiles) {
+			end = len(allFiles)
+		}
+
+		batch := allFiles[i:end]
+		log.Printf("Processing batch %d-%d of %d files\n", i+1, end, len(allFiles))
+
+		processBatch(batch, config, numWorkers)
+
+		// Force garbage collection between batches
+		runtime.GC()
+		runtime.GC() // Call twice to ensure cleanup
+
+		// Small delay to allow system cleanup
+		time.Sleep(100 * time.Millisecond)
+	}
+}
+
+func processBatch(files []string, config Config, numWorkers int) {
 	var wg sync.WaitGroup
-	numWorkers := 2 // Set a fixed number of workers to avoid overloading the system
-	jobs := make(chan string, numWorkers)
-	var videoIndex int // Track the index of processed videos
+	jobs := make(chan string, len(files))
+	var videoIndex int
 	var videoIndexLock sync.Mutex
 
+	// Start workers
 	for i := 0; i < numWorkers; i++ {
 		wg.Add(1)
 		go func() {
 			defer wg.Done()
 			for file := range jobs {
-				// Use mutex to ensure the videoIndex is safely incremented
 				videoIndexLock.Lock()
 				currentVideoIndex := videoIndex
 				videoIndex++
@@ -86,21 +138,13 @@ func processFiles(config Config) {
 		}()
 	}
 
-	err := filepath.Walk(config.InputPath, func(path string, info os.FileInfo, err error) error {
-		if err != nil {
-			return err
-		}
-		if !info.IsDir() {
-			jobs <- path
-		}
-		return nil
-	})
-
-	if err != nil {
-		log.Printf("Error walking through directory: %v\n", err)
+	// Send jobs
+	for _, file := range files {
+		jobs <- file
 	}
-
 	close(jobs)
+
+	// Wait for completion
 	wg.Wait()
 }
 
@@ -123,10 +167,18 @@ func processFileWithTimeout(file string, config Config, videoIndex int) {
 }
 
 func processFile(file string, config Config, videoIndex int) {
+	defer func() {
+		if r := recover(); r != nil {
+			log.Printf("Panic occurred while processing file %s: %v\n", file, r)
+		}
+	}()
+
+	log.Printf("Processing file: %s (type: %s)\n", file, GetFileType(file))
+
 	relPath, _ := filepath.Rel(config.InputPath, filepath.Dir(file))
 	currentOutputPath := filepath.Join(config.OutputPath, relPath)
 
-	switch getFileType(file) {
+	switch GetFileType(file) {
 	case "image":
 		if err := ProcessImage(file, currentOutputPath, config); err != nil {
 			log.Printf("Error processing image %s: %v\n", file, err)
@@ -136,5 +188,7 @@ func processFile(file string, config Config, videoIndex int) {
 		if err := ProcessVideo(file, currentOutputPath, config, videoIndex); err != nil {
 			log.Printf("Error processing video %s: %v\n", file, err)
 		}
+	case "unknown":
+		log.Printf("Skipping unknown file type: %s\n", file)
 	}
 }

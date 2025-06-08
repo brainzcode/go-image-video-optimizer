@@ -5,6 +5,7 @@ import (
 	"log"
 	"os"
 	"path/filepath"
+	"runtime"
 	"sync/atomic"
 
 	"github.com/h2non/bimg"
@@ -13,6 +14,22 @@ import (
 var imageIndex uint32
 
 func ProcessImage(inputPath, outputPath string, config Config) error {
+	// Add defer for cleanup and recovery
+	defer func() {
+		// Force garbage collection after processing each image
+		runtime.GC()
+	}()
+
+	// Validate input parameters
+	if inputPath == "" || outputPath == "" {
+		return fmt.Errorf("input path and output path cannot be empty")
+	}
+
+	// Check if input file exists
+	if _, err := os.Stat(inputPath); os.IsNotExist(err) {
+		return fmt.Errorf("input file does not exist: %s", inputPath)
+	}
+
 	// Create output directory if it doesn't exist
 	if err := os.MkdirAll(outputPath, os.ModePerm); err != nil {
 		return fmt.Errorf("failed to create output directory: %v", err)
@@ -29,6 +46,11 @@ func ProcessImage(inputPath, outputPath string, config Config) error {
 	buffer, err := bimg.Read(inputPath)
 	if err != nil {
 		return fmt.Errorf("failed to read image: %v", err)
+	}
+
+	// Validate buffer
+	if len(buffer) == 0 {
+		return fmt.Errorf("empty image buffer for file: %s", inputPath)
 	}
 
 	// Create a new image from buffer
@@ -124,6 +146,10 @@ func ProcessImage(inputPath, outputPath string, config Config) error {
 	if err := bimg.Write(outputFilePath, processedBuffer); err != nil {
 		return fmt.Errorf("failed to save processed image: %v", err)
 	}
+
+	// Clear buffers to help with memory management
+	buffer = nil
+	processedBuffer = nil
 
 	log.Printf("Successfully processed image: %s -> %s\n", inputPath, outputFilePath)
 	return nil

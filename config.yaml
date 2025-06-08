@@ -1,16 +1,11 @@
-<<<<<<< HEAD
-input_path: "./luminous"
-output_path: "./luminous-img"
-width: 2880
-height: 4522
+input_path: "./worldover-img"
+output_path: "./worldover-landscape"
+width: 5616
+height: 3744
 image_size_kb: 80
-=======
-input_path: "./profile"
-output_path: "./corina-david"
-width: 1024
-height: 1024
-image_size_kb: 70
->>>>>>> origin/main
 video_size_kb: 5000
-video_format: "mp4"
+video_format: "webm"
 conversion_timeout: 60000
+# Memory management settings
+max_batch_size: 5  # Process only 5 files at a time
+max_workers: 1     # Use only 1 worker to prevent memory issues

@@ -1,725 +1,224 @@
-2024/12/02 09:03:33.831340 Starting media conversion
-2024/12/02 09:03:33.849966 Image size: 1902x973, Crop area: 677,0 547x973
-2024/12/02 09:03:33.849975 Image size: 1897x967, Crop area: 677,0 543x967
-2024/12/02 09:03:34.000924 Successfully processed image: image/Screenshot 2024-12-01 101005.png -> image_landscape/image_landscape_0001.webp
-2024/12/02 09:03:34.006071 Image size: 1895x940, Crop area: 683,0 528x940
-2024/12/02 09:03:34.023607 Successfully processed image: image/Screenshot 2024-12-01 101125.png -> image_landscape/image_landscape_0002.webp
-2024/12/02 09:03:34.042772 Image size: 1898x970, Crop area: 676,0 545x970
-2024/12/02 09:03:34.160050 Successfully processed image: image/Screenshot 2024-12-01 101153.png -> image_landscape/image_landscape_0003.webp
-2024/12/02 09:03:34.179711 Successfully processed image: image/Screenshot 2024-12-01 101227.png -> image_landscape/image_landscape_0004.webp
-2024/12/02 09:03:34.179875 Image size: 1900x968, Crop area: 678,0 544x968
-2024/12/02 09:03:34.195058 Image size: 1898x971, Crop area: 676,0 546x971
-2024/12/02 09:03:34.316072 Successfully processed image: image/Screenshot 2024-12-01 101340.png -> image_landscape/image_landscape_0005.webp
-2024/12/02 09:03:34.332049 Successfully processed image: image/Screenshot 2024-12-01 101415.png -> image_landscape/image_landscape_0006.webp
-2024/12/02 09:03:34.333257 Image size: 1895x970, Crop area: 675,0 545x970
-2024/12/02 09:03:34.347422 Image size: 1903x967, Crop area: 680,0 543x967
-2024/12/02 09:03:34.459957 Successfully processed image: image/Screenshot 2024-12-01 101453.png -> image_landscape/image_landscape_0007.webp
-2024/12/02 09:03:34.461149 Successfully processed image: image/Screenshot 2024-12-01 110414.png -> image_landscape/image_landscape_0008.webp
-2024/12/02 09:03:34.461399 Total conversion time: 0.63 seconds
-2024/12/02 09:03:34.461573 Media conversion completed
-2024/12/02 09:04:26.987800 Starting media conversion
-2024/12/02 09:04:27.008160 Image size: 1902x973, Crop area: 302,0 1297x973
-2024/12/02 09:04:27.008172 Image size: 1897x967, Crop area: 304,0 1289x967
-2024/12/02 09:04:27.200790 Successfully processed image: image/Screenshot 2024-12-01 101005.png -> image_landscape/image_landscape_0001.webp
-2024/12/02 09:04:27.223313 Image size: 1895x940, Crop area: 321,0 1253x940
-2024/12/02 09:04:27.245986 Successfully processed image: image/Screenshot 2024-12-01 101125.png -> image_landscape/image_landscape_0002.webp
-2024/12/02 09:04:27.252957 Image size: 1898x970, Crop area: 302,0 1293x970
-2024/12/02 09:04:27.433643 Successfully processed image: image/Screenshot 2024-12-01 101153.png -> image_landscape/image_landscape_0003.webp
-2024/12/02 09:04:27.453811 Successfully processed image: image/Screenshot 2024-12-01 101227.png -> image_landscape/image_landscape_0004.webp
-2024/12/02 09:04:27.456872 Image size: 1900x968, Crop area: 305,0 1290x968
-2024/12/02 09:04:27.457484 Image size: 1898x971, Crop area: 302,0 1294x971
-2024/12/02 09:04:27.633051 Successfully processed image: image/Screenshot 2024-12-01 101415.png -> image_landscape/image_landscape_0006.webp
-2024/12/02 09:04:27.638541 Successfully processed image: image/Screenshot 2024-12-01 101340.png -> image_landscape/image_landscape_0005.webp
-2024/12/02 09:04:27.639849 Image size: 1895x970, Crop area: 301,0 1293x970
-2024/12/02 09:04:27.656252 Image size: 1903x967, Crop area: 307,0 1289x967
-2024/12/02 09:04:27.804333 Successfully processed image: image/Screenshot 2024-12-01 110414.png -> image_landscape/image_landscape_0008.webp
-2024/12/02 09:04:27.834700 Successfully processed image: image/Screenshot 2024-12-01 101453.png -> image_landscape/image_landscape_0007.webp
-2024/12/02 09:04:27.835155 Total conversion time: 0.85 seconds
-2024/12/02 09:04:27.835436 Media conversion completed
-2024/12/02 09:09:12.369317 Starting media conversion
-2024/12/02 09:09:12.387501 Image size: 1902x973, Crop area: 0,36 1902x900
-2024/12/02 09:09:12.387534 Image size: 1897x967, Crop area: 0,34 1897x898
-2024/12/02 09:09:13.522303 Successfully processed image: image/Screenshot 2024-12-01 101005.png -> image1_landscape/image1_landscape_0001.webp
-2024/12/02 09:09:13.528358 Image size: 1895x940, Crop area: 0,21 1895x897
-2024/12/02 09:09:14.004767 Successfully processed image: image/Screenshot 2024-12-01 101125.png -> image1_landscape/image1_landscape_0002.webp
-2024/12/02 09:09:14.019713 Image size: 1898x970, Crop area: 0,35 1898x899
-2024/12/02 09:09:14.558806 Successfully processed image: image/Screenshot 2024-12-01 101153.png -> image1_landscape/image1_landscape_0003.webp
-2024/12/02 09:09:14.564308 Image size: 1900x968, Crop area: 0,34 1900x900
-2024/12/02 09:09:14.887949 Successfully processed image: image/Screenshot 2024-12-01 101340.png -> image1_landscape/image1_landscape_0005.webp
-2024/12/02 09:09:14.903421 Image size: 1898x971, Crop area: 0,36 1898x899
-2024/12/02 09:09:15.140894 Successfully processed image: image/Screenshot 2024-12-01 101415.png -> image1_landscape/image1_landscape_0006.webp
-2024/12/02 09:09:15.158098 Image size: 1895x970, Crop area: 0,36 1895x897
-2024/12/02 09:09:15.384044 Successfully processed image: image/Screenshot 2024-12-01 101227.png -> image1_landscape/image1_landscape_0004.webp
-2024/12/02 09:09:15.401166 Successfully processed image: image/Screenshot 2024-12-01 101453.png -> image1_landscape/image1_landscape_0007.webp
-2024/12/02 09:09:15.418383 Image size: 1903x967, Crop area: 0,33 1903x901
-2024/12/02 09:09:15.606847 Successfully processed image: image/Screenshot 2024-12-01 110414.png -> image1_landscape/image1_landscape_0008.webp
-2024/12/02 09:09:15.607204 Total conversion time: 3.24 seconds
-2024/12/02 09:09:15.624418 Media conversion completed
-2024/12/02 09:10:04.714103 Starting media conversion
-2024/12/02 09:10:04.727443 Image size: 1902x973, Crop area: 27,0 1848x973
-2024/12/02 09:10:04.727477 Image size: 1897x967, Crop area: 30,0 1837x967
-2024/12/02 09:10:05.986527 Successfully processed image: image/Screenshot 2024-12-01 101005.png -> image1_landscape/image1_landscape_0001.webp
-2024/12/02 09:10:05.993753 Image size: 1895x940, Crop area: 54,0 1786x940
-2024/12/02 09:10:06.496441 Successfully processed image: image/Screenshot 2024-12-01 101125.png -> image1_landscape/image1_landscape_0002.webp
-2024/12/02 09:10:06.503806 Image size: 1898x970, Crop area: 27,0 1843x970
-2024/12/02 09:10:07.005614 Successfully processed image: image/Screenshot 2024-12-01 101153.png -> image1_landscape/image1_landscape_0003.webp
-2024/12/02 09:10:07.025049 Image size: 1900x968, Crop area: 30,0 1839x968
-2024/12/02 09:10:07.319962 Successfully processed image: image/Screenshot 2024-12-01 101340.png -> image1_landscape/image1_landscape_0005.webp
-2024/12/02 09:10:07.334518 Image size: 1898x971, Crop area: 27,0 1844x971
-2024/12/02 09:10:07.591159 Successfully processed image: image/Screenshot 2024-12-01 101415.png -> image1_landscape/image1_landscape_0006.webp
-2024/12/02 09:10:07.608932 Image size: 1895x970, Crop area: 26,0 1843x970
-2024/12/02 09:10:07.873359 Successfully processed image: image/Screenshot 2024-12-01 101453.png -> image1_landscape/image1_landscape_0007.webp
-2024/12/02 09:10:07.890260 Image size: 1903x967, Crop area: 33,0 1837x967
-2024/12/02 09:10:08.065542 Successfully processed image: image/Screenshot 2024-12-01 101227.png -> image1_landscape/image1_landscape_0004.webp
-2024/12/02 09:10:08.142137 Successfully processed image: image/Screenshot 2024-12-01 110414.png -> image1_landscape/image1_landscape_0008.webp
-2024/12/02 09:10:08.142846 Total conversion time: 3.43 seconds
-2024/12/02 09:10:08.143062 Media conversion completed
-2024/12/02 09:11:39.608834 Starting media conversion
-2024/12/02 09:11:39.627008 Image size: 1897x967, Crop area: 30,0 1837x967
-2024/12/02 09:11:39.627025 Image size: 1902x973, Crop area: 27,0 1848x973
-2024/12/02 09:11:40.879207 Successfully processed image: image/Screenshot 2024-12-01 101005.png -> image1_landscape/image1_landscape_0001.webp
-2024/12/02 09:11:40.883583 Image size: 1895x940, Crop area: 54,0 1786x940
-2024/12/02 09:11:41.365232 Successfully processed image: image/Screenshot 2024-12-01 101125.png -> image1_landscape/image1_landscape_0002.webp
-2024/12/02 09:11:41.386908 Image size: 1898x970, Crop area: 27,0 1843x970
-2024/12/02 09:11:41.883448 Successfully processed image: image/Screenshot 2024-12-01 101153.png -> image1_landscape/image1_landscape_0003.webp
-2024/12/02 09:11:41.896631 Image size: 1900x968, Crop area: 30,0 1839x968
-2024/12/02 09:11:42.178439 Successfully processed image: image/Screenshot 2024-12-01 101340.png -> image1_landscape/image1_landscape_0005.webp
-2024/12/02 09:11:42.180681 Image size: 1898x971, Crop area: 27,0 1844x971
-2024/12/02 09:11:42.438767 Successfully processed image: image/Screenshot 2024-12-01 101415.png -> image1_landscape/image1_landscape_0006.webp
-2024/12/02 09:11:42.450020 Image size: 1895x970, Crop area: 26,0 1843x970
-2024/12/02 09:11:42.704965 Successfully processed image: image/Screenshot 2024-12-01 101453.png -> image1_landscape/image1_landscape_0007.webp
-2024/12/02 09:11:42.707586 Image size: 1903x967, Crop area: 33,0 1837x967
-2024/12/02 09:11:42.906032 Successfully processed image: image/Screenshot 2024-12-01 101227.png -> image1_landscape/image1_landscape_0004.webp
-2024/12/02 09:11:42.960140 Successfully processed image: image/Screenshot 2024-12-01 110414.png -> image1_landscape/image1_landscape_0008.webp
-2024/12/02 09:11:42.960293 Total conversion time: 3.35 seconds
-2024/12/02 09:11:42.960407 Media conversion completed
-2024/12/18 16:51:27.731919 Starting media conversion
-2024/12/18 16:51:27.764200 Image size: 1408x768, Crop area: 4,0 1400x768
-2024/12/18 16:51:27.764274 Image size: 1408x768, Crop area: 4,0 1400x768
-2024/12/18 16:51:28.008112 Successfully processed image: img/IMG_9744.PNG -> img_landscape/img_landscape_0001.webp
-2024/12/18 16:51:28.011778 Successfully processed image: img/IMG_9745.PNG -> img_landscape/img_landscape_0002.webp
-2024/12/18 16:51:28.040632 Image size: 1408x768, Crop area: 4,0 1400x768
-2024/12/18 16:51:28.411545 Successfully processed image: img/IMG_9746.PNG -> img_landscape/img_landscape_0003.webp
-2024/12/18 16:51:28.411750 Total conversion time: 0.68 seconds
-2024/12/18 16:51:28.411909 Media conversion completed
-2025/01/13 00:04:20.540914 Starting media conversion
-2025/01/13 00:04:20.581983 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:20.582022 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:20.779058 Successfully processed image: mach-img-portrait/image_fx_ (2).jpg -> mach-img-port/mach-img-port_0002.webp
-2025/01/13 00:04:20.782528 Successfully processed image: mach-img-portrait/image_fx_ (1).jpg -> mach-img-port/mach-img-port_0001.webp
-2025/01/13 00:04:20.808128 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:20.813488 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:21.016771 Successfully processed image: mach-img-portrait/image_fx_ (23).jpg -> mach-img-port/mach-img-port_0003.webp
-2025/01/13 00:04:21.019302 Successfully processed image: mach-img-portrait/image_fx_ (24).jpg -> mach-img-port/mach-img-port_0004.webp
-2025/01/13 00:04:21.050884 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:21.051957 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:21.228616 Successfully processed image: mach-img-portrait/image_fx_ (26).jpg -> mach-img-port/mach-img-port_0006.webp
-2025/01/13 00:04:21.235695 Successfully processed image: mach-img-portrait/image_fx_ (25).jpg -> mach-img-port/mach-img-port_0005.webp
-2025/01/13 00:04:21.257675 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:21.264744 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:21.450375 Successfully processed image: mach-img-portrait/image_fx_ (28).jpg -> mach-img-port/mach-img-port_0008.webp
-2025/01/13 00:04:21.452064 Successfully processed image: mach-img-portrait/image_fx_ (27).jpg -> mach-img-port/mach-img-port_0007.webp
-2025/01/13 00:04:21.476740 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:21.486512 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:21.668133 Successfully processed image: mach-img-portrait/image_fx_ (29).jpg -> mach-img-port/mach-img-port_0009.webp
-2025/01/13 00:04:21.685303 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:21.765348 Successfully processed image: mach-img-portrait/image_fx_ (3).jpg -> mach-img-port/mach-img-port_0010.webp
-2025/01/13 00:04:21.786794 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:21.872198 Successfully processed image: mach-img-portrait/image_fx_ (30).jpg -> mach-img-port/mach-img-port_0011.webp
-2025/01/13 00:04:21.893647 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:21.975365 Successfully processed image: mach-img-portrait/image_fx_ (31).jpg -> mach-img-port/mach-img-port_0012.webp
-2025/01/13 00:04:21.997657 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:22.088868 Successfully processed image: mach-img-portrait/image_fx_ (36).jpg -> mach-img-port/mach-img-port_0013.webp
-2025/01/13 00:04:22.108954 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:22.183487 Successfully processed image: mach-img-portrait/image_fx_ (37).jpg -> mach-img-port/mach-img-port_0014.webp
-2025/01/13 00:04:22.205937 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:22.304816 Successfully processed image: mach-img-portrait/image_fx_ (38).jpg -> mach-img-port/mach-img-port_0015.webp
-2025/01/13 00:04:22.328812 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:22.382023 Successfully processed image: mach-img-portrait/image_fx_ (39).jpg -> mach-img-port/mach-img-port_0016.webp
-2025/01/13 00:04:22.403401 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:22.516809 Successfully processed image: mach-img-portrait/image_fx_ (4).jpg -> mach-img-port/mach-img-port_0017.webp
-2025/01/13 00:04:22.544500 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:22.586580 Successfully processed image: mach-img-portrait/image_fx_ (40).jpg -> mach-img-port/mach-img-port_0018.webp
-2025/01/13 00:04:22.611015 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:22.737041 Successfully processed image: mach-img-portrait/image_fx_ (41).jpg -> mach-img-port/mach-img-port_0019.webp
-2025/01/13 00:04:22.760479 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:22.788068 Successfully processed image: mach-img-portrait/image_fx_ (42).jpg -> mach-img-port/mach-img-port_0020.webp
-2025/01/13 00:04:22.812849 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:22.947545 Successfully processed image: mach-img-portrait/image_fx_ (43).jpg -> mach-img-port/mach-img-port_0021.webp
-2025/01/13 00:04:22.972885 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:23.000103 Successfully processed image: mach-img-portrait/image_fx_ (5).jpg -> mach-img-port/mach-img-port_0022.webp
-2025/01/13 00:04:23.023028 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:23.209136 Successfully processed image: mach-img-portrait/image_fx_ (51).jpg -> mach-img-port/mach-img-port_0024.webp
-2025/01/13 00:04:23.232577 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:23.316447 Successfully processed image: mach-img-portrait/image_fx_ (50).jpg -> mach-img-port/mach-img-port_0023.webp
-2025/01/13 00:04:23.337117 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:23.431319 Successfully processed image: mach-img-portrait/image_fx_ (52).jpg -> mach-img-port/mach-img-port_0025.webp
-2025/01/13 00:04:23.452908 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:23.516447 Successfully processed image: mach-img-portrait/image_fx_ (56).jpg -> mach-img-port/mach-img-port_0026.webp
-2025/01/13 00:04:23.551998 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:23.633573 Successfully processed image: mach-img-portrait/image_fx_ (57).jpg -> mach-img-port/mach-img-port_0027.webp
-2025/01/13 00:04:23.655895 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:23.728766 Successfully processed image: mach-img-portrait/image_fx_ (58).jpg -> mach-img-port/mach-img-port_0028.webp
-2025/01/13 00:04:23.751493 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:23.847211 Successfully processed image: mach-img-portrait/image_fx_ (59).jpg -> mach-img-port/mach-img-port_0029.webp
-2025/01/13 00:04:23.872948 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:23.939580 Successfully processed image: mach-img-portrait/image_fx_ (6).jpg -> mach-img-port/mach-img-port_0030.webp
-2025/01/13 00:04:23.963432 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:24.065694 Successfully processed image: mach-img-portrait/image_fx_ (60).jpg -> mach-img-port/mach-img-port_0031.webp
-2025/01/13 00:04:24.087281 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:24.145329 Successfully processed image: mach-img-portrait/image_fx_ (61).jpg -> mach-img-port/mach-img-port_0032.webp
-2025/01/13 00:04:24.170265 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:24.260590 Successfully processed image: mach-img-portrait/image_fx_ (62).jpg -> mach-img-port/mach-img-port_0033.webp
-2025/01/13 00:04:24.284746 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:24.358469 Successfully processed image: mach-img-portrait/image_fx_ (63).jpg -> mach-img-port/mach-img-port_0034.webp
-2025/01/13 00:04:24.381690 Image size: 768x1408, Crop area: 0,495 768x418
-2025/01/13 00:04:24.489092 Successfully processed image: mach-img-portrait/image_fx_ (7).jpg -> mach-img-port/mach-img-port_0035.webp
-2025/01/13 00:04:24.571353 Successfully processed image: mach-img-portrait/image_fx_.jpg -> mach-img-port/mach-img-port_0036.webp
-2025/01/13 00:04:24.571696 Total conversion time: 4.03 seconds
-2025/01/13 00:04:24.571936 Media conversion completed
-2025/01/13 00:05:40.982194 Starting media conversion
-2025/01/13 00:05:41.007253 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:41.007295 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:41.505861 Successfully processed image: mach-img-portrait/image_fx_ (2).jpg -> mach-img-port/mach-img-port_0002.webp
-2025/01/13 00:05:41.520162 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:41.756263 Successfully processed image: mach-img-portrait/image_fx_ (1).jpg -> mach-img-port/mach-img-port_0001.webp
-2025/01/13 00:05:41.776826 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:42.020173 Successfully processed image: mach-img-portrait/image_fx_ (23).jpg -> mach-img-port/mach-img-port_0003.webp
-2025/01/13 00:05:42.047115 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:42.291477 Successfully processed image: mach-img-portrait/image_fx_ (24).jpg -> mach-img-port/mach-img-port_0004.webp
-2025/01/13 00:05:42.301937 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:42.416164 Successfully processed image: mach-img-portrait/image_fx_ (25).jpg -> mach-img-port/mach-img-port_0005.webp
-2025/01/13 00:05:42.429315 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:42.540627 Successfully processed image: mach-img-portrait/image_fx_ (26).jpg -> mach-img-port/mach-img-port_0006.webp
-2025/01/13 00:05:42.552394 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:42.912555 Successfully processed image: mach-img-portrait/image_fx_ (28).jpg -> mach-img-port/mach-img-port_0008.webp
-2025/01/13 00:05:42.925540 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:42.942290 Successfully processed image: mach-img-portrait/image_fx_ (27).jpg -> mach-img-port/mach-img-port_0007.webp
-2025/01/13 00:05:42.955982 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:43.428957 Successfully processed image: mach-img-portrait/image_fx_ (29).jpg -> mach-img-port/mach-img-port_0009.webp
-2025/01/13 00:05:43.442612 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:43.820992 Successfully processed image: mach-img-portrait/image_fx_ (30).jpg -> mach-img-port/mach-img-port_0011.webp
-2025/01/13 00:05:43.833336 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:44.081083 Successfully processed image: mach-img-portrait/image_fx_ (3).jpg -> mach-img-port/mach-img-port_0010.webp
-2025/01/13 00:05:44.094878 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:44.187367 Successfully processed image: mach-img-portrait/image_fx_ (31).jpg -> mach-img-port/mach-img-port_0012.webp
-2025/01/13 00:05:44.200252 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:44.709819 Successfully processed image: mach-img-portrait/image_fx_ (37).jpg -> mach-img-port/mach-img-port_0014.webp
-2025/01/13 00:05:44.717618 Successfully processed image: mach-img-portrait/image_fx_ (36).jpg -> mach-img-port/mach-img-port_0013.webp
-2025/01/13 00:05:44.728991 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:44.732371 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:44.974452 Successfully processed image: mach-img-portrait/image_fx_ (39).jpg -> mach-img-port/mach-img-port_0016.webp
-2025/01/13 00:05:44.986103 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:45.487553 Successfully processed image: mach-img-portrait/image_fx_ (38).jpg -> mach-img-port/mach-img-port_0015.webp
-2025/01/13 00:05:45.500611 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:45.502962 Successfully processed image: mach-img-portrait/image_fx_ (4).jpg -> mach-img-port/mach-img-port_0017.webp
-2025/01/13 00:05:45.517537 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:45.977749 Successfully processed image: mach-img-portrait/image_fx_ (40).jpg -> mach-img-port/mach-img-port_0018.webp
-2025/01/13 00:05:45.989484 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:46.367368 Successfully processed image: mach-img-portrait/image_fx_ (41).jpg -> mach-img-port/mach-img-port_0019.webp
-2025/01/13 00:05:46.379356 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:46.488246 Successfully processed image: mach-img-portrait/image_fx_ (42).jpg -> mach-img-port/mach-img-port_0020.webp
-2025/01/13 00:05:46.506240 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:46.982351 Successfully processed image: mach-img-portrait/image_fx_ (43).jpg -> mach-img-port/mach-img-port_0021.webp
-2025/01/13 00:05:47.009870 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:47.217908 Successfully processed image: mach-img-portrait/image_fx_ (5).jpg -> mach-img-port/mach-img-port_0022.webp
-2025/01/13 00:05:47.228966 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:47.726964 Successfully processed image: mach-img-portrait/image_fx_ (51).jpg -> mach-img-port/mach-img-port_0024.webp
-2025/01/13 00:05:47.738944 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:48.229517 Successfully processed image: mach-img-portrait/image_fx_ (50).jpg -> mach-img-port/mach-img-port_0023.webp
-2025/01/13 00:05:48.243817 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:48.612429 Successfully processed image: mach-img-portrait/image_fx_ (56).jpg -> mach-img-port/mach-img-port_0026.webp
-2025/01/13 00:05:48.635019 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:48.914543 Successfully processed image: mach-img-portrait/image_fx_ (52).jpg -> mach-img-port/mach-img-port_0025.webp
-2025/01/13 00:05:48.925852 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:48.986455 Successfully processed image: mach-img-portrait/image_fx_ (57).jpg -> mach-img-port/mach-img-port_0027.webp
-2025/01/13 00:05:49.000990 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:49.290330 Successfully processed image: mach-img-portrait/image_fx_ (58).jpg -> mach-img-port/mach-img-port_0028.webp
-2025/01/13 00:05:49.302468 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:49.363724 Successfully processed image: mach-img-portrait/image_fx_ (59).jpg -> mach-img-port/mach-img-port_0029.webp
-2025/01/13 00:05:49.379029 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:49.822014 Successfully processed image: mach-img-portrait/image_fx_ (6).jpg -> mach-img-port/mach-img-port_0030.webp
-2025/01/13 00:05:49.834415 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:49.997723 Successfully processed image: mach-img-portrait/image_fx_ (60).jpg -> mach-img-port/mach-img-port_0031.webp
-2025/01/13 00:05:50.006941 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:50.244732 Successfully processed image: mach-img-portrait/image_fx_ (62).jpg -> mach-img-port/mach-img-port_0033.webp
-2025/01/13 00:05:50.255898 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:50.320512 Successfully processed image: mach-img-portrait/image_fx_ (61).jpg -> mach-img-port/mach-img-port_0032.webp
-2025/01/13 00:05:50.334389 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:50.628315 Successfully processed image: mach-img-portrait/image_fx_ (63).jpg -> mach-img-port/mach-img-port_0034.webp
-2025/01/13 00:05:50.641004 Image size: 768x1408, Crop area: 0,0 768x1408
-2025/01/13 00:05:50.959607 Successfully processed image: mach-img-portrait/image_fx_ (7).jpg -> mach-img-port/mach-img-port_0035.webp
-2025/01/13 00:05:51.108442 Successfully processed image: mach-img-portrait/image_fx_.jpg -> mach-img-port/mach-img-port_0036.webp
-2025/01/13 00:05:51.109059 Total conversion time: 10.13 seconds
-2025/01/13 00:05:51.109567 Media conversion completed
-2025/01/13 00:07:17.110316 Starting media conversion
-2025/01/13 00:07:17.154968 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:17.154999 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:17.497158 Successfully processed image: mach-img-landscape/image_fx_ (10).jpg -> mach-img-lands/mach-img-lands_0001.webp
-2025/01/13 00:07:17.522297 Successfully processed image: mach-img-landscape/image_fx_ (11).jpg -> mach-img-lands/mach-img-lands_0002.webp
-2025/01/13 00:07:17.539500 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:17.549520 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:17.909494 Successfully processed image: mach-img-landscape/image_fx_ (12).jpg -> mach-img-lands/mach-img-lands_0003.webp
-2025/01/13 00:07:17.919665 Successfully processed image: mach-img-landscape/image_fx_ (13).jpg -> mach-img-lands/mach-img-lands_0004.webp
-2025/01/13 00:07:17.948246 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:17.952563 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:18.193349 Successfully processed image: mach-img-landscape/image_fx_ (15).jpg -> mach-img-lands/mach-img-lands_0006.webp
-2025/01/13 00:07:18.216499 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:18.433502 Successfully processed image: mach-img-landscape/image_fx_ (14).jpg -> mach-img-lands/mach-img-lands_0005.webp
-2025/01/13 00:07:18.454747 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:18.607570 Successfully processed image: mach-img-landscape/image_fx_ (16).jpg -> mach-img-lands/mach-img-lands_0007.webp
-2025/01/13 00:07:18.631211 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:18.706927 Successfully processed image: mach-img-landscape/image_fx_ (17).jpg -> mach-img-lands/mach-img-lands_0008.webp
-2025/01/13 00:07:18.731688 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:18.888859 Successfully processed image: mach-img-landscape/image_fx_ (18).jpg -> mach-img-lands/mach-img-lands_0009.webp
-2025/01/13 00:07:18.914894 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:19.173830 Successfully processed image: mach-img-landscape/image_fx_ (20).jpg -> mach-img-lands/mach-img-lands_0011.webp
-2025/01/13 00:07:19.206761 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:19.225903 Successfully processed image: mach-img-landscape/image_fx_ (19).jpg -> mach-img-lands/mach-img-lands_0010.webp
-2025/01/13 00:07:19.252160 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:19.628260 Successfully processed image: mach-img-landscape/image_fx_ (22).jpg -> mach-img-lands/mach-img-lands_0013.webp
-2025/01/13 00:07:19.662068 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:19.705293 Successfully processed image: mach-img-landscape/image_fx_ (21).jpg -> mach-img-lands/mach-img-lands_0012.webp
-2025/01/13 00:07:19.728119 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:20.023457 Successfully processed image: mach-img-landscape/image_fx_ (32).jpg -> mach-img-lands/mach-img-lands_0014.webp
-2025/01/13 00:07:20.061367 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:20.215371 Successfully processed image: mach-img-landscape/image_fx_ (33).jpg -> mach-img-lands/mach-img-lands_0015.webp
-2025/01/13 00:07:20.237144 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:20.418896 Successfully processed image: mach-img-landscape/image_fx_ (34).jpg -> mach-img-lands/mach-img-lands_0016.webp
-2025/01/13 00:07:20.443166 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:20.804795 Successfully processed image: mach-img-landscape/image_fx_ (44).jpg -> mach-img-lands/mach-img-lands_0018.webp
-2025/01/13 00:07:20.829282 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:20.858278 Successfully processed image: mach-img-landscape/image_fx_ (35).jpg -> mach-img-lands/mach-img-lands_0017.webp
-2025/01/13 00:07:20.885136 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:21.058622 Successfully processed image: mach-img-landscape/image_fx_ (45).jpg -> mach-img-lands/mach-img-lands_0019.webp
-2025/01/13 00:07:21.081915 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:21.106557 Successfully processed image: mach-img-landscape/image_fx_ (46).jpg -> mach-img-lands/mach-img-lands_0020.webp
-2025/01/13 00:07:21.132064 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:21.676735 Successfully processed image: mach-img-landscape/image_fx_ (47).jpg -> mach-img-lands/mach-img-lands_0021.webp
-2025/01/13 00:07:21.703769 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:22.208569 Successfully processed image: mach-img-landscape/image_fx_ (48).jpg -> mach-img-lands/mach-img-lands_0022.webp
-2025/01/13 00:07:22.247235 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:22.399116 Successfully processed image: mach-img-landscape/image_fx_ (49).jpg -> mach-img-lands/mach-img-lands_0023.webp
-2025/01/13 00:07:22.426937 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:22.483982 Successfully processed image: mach-img-landscape/image_fx_ (53).jpg -> mach-img-lands/mach-img-lands_0024.webp
-2025/01/13 00:07:22.527364 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:22.819171 Successfully processed image: mach-img-landscape/image_fx_ (54).jpg -> mach-img-lands/mach-img-lands_0025.webp
-2025/01/13 00:07:22.844783 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:22.976131 Successfully processed image: mach-img-landscape/image_fx_ (64).jpg -> mach-img-lands/mach-img-lands_0027.webp
-2025/01/13 00:07:22.998033 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:23.228909 Successfully processed image: mach-img-landscape/image_fx_ (65).jpg -> mach-img-lands/mach-img-lands_0028.webp
-2025/01/13 00:07:23.251408 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:23.294775 Successfully processed image: mach-img-landscape/image_fx_ (55).jpg -> mach-img-lands/mach-img-lands_0026.webp
-2025/01/13 00:07:23.319111 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:23.590415 Successfully processed image: mach-img-landscape/image_fx_ (67).jpg -> mach-img-lands/mach-img-lands_0030.webp
-2025/01/13 00:07:23.612742 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:23.634180 Successfully processed image: mach-img-landscape/image_fx_ (66).jpg -> mach-img-lands/mach-img-lands_0029.webp
-2025/01/13 00:07:23.659630 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:23.839743 Successfully processed image: mach-img-landscape/image_fx_ (68).jpg -> mach-img-lands/mach-img-lands_0031.webp
-2025/01/13 00:07:23.867311 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:25.611984 Successfully processed image: mach-img-landscape/image_fx_ (70).jpg -> mach-img-lands/mach-img-lands_0033.webp
-2025/01/13 00:07:25.637429 Successfully processed image: mach-img-landscape/image_fx_ (69).jpg -> mach-img-lands/mach-img-lands_0032.webp
-2025/01/13 00:07:25.639130 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:25.667705 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:27.646820 Successfully processed image: mach-img-landscape/image_fx_ (71).jpg -> mach-img-lands/mach-img-lands_0034.webp
-2025/01/13 00:07:27.685968 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:27.748746 Successfully processed image: mach-img-landscape/image_fx_ (72).jpg -> mach-img-lands/mach-img-lands_0035.webp
-2025/01/13 00:07:27.771966 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:29.586344 Successfully processed image: mach-img-landscape/image_fx_ (73).jpg -> mach-img-lands/mach-img-lands_0036.webp
-2025/01/13 00:07:29.611633 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:29.682281 Successfully processed image: mach-img-landscape/image_fx_ (74).jpg -> mach-img-lands/mach-img-lands_0037.webp
-2025/01/13 00:07:29.713890 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:30.788694 Successfully processed image: mach-img-landscape/image_fx_ (76).jpg -> mach-img-lands/mach-img-lands_0039.webp
-2025/01/13 00:07:30.814436 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:31.189442 Successfully processed image: mach-img-landscape/image_fx_ (77).jpg -> mach-img-lands/mach-img-lands_0040.webp
-2025/01/13 00:07:31.217916 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:31.382348 Successfully processed image: mach-img-landscape/image_fx_ (75).jpg -> mach-img-lands/mach-img-lands_0038.webp
-2025/01/13 00:07:31.416541 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:31.466139 Successfully processed image: mach-img-landscape/image_fx_ (78).jpg -> mach-img-lands/mach-img-lands_0041.webp
-2025/01/13 00:07:31.485247 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:31.771103 Successfully processed image: mach-img-landscape/image_fx_ (79).jpg -> mach-img-lands/mach-img-lands_0042.webp
-2025/01/13 00:07:31.794379 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:31.850633 Successfully processed image: mach-img-landscape/image_fx_ (8).jpg -> mach-img-lands/mach-img-lands_0043.webp
-2025/01/13 00:07:31.872778 Image size: 1408x768, Crop area: 0,0 1408x768
-2025/01/13 00:07:32.172744 Successfully processed image: mach-img-landscape/image_fx_ (80).jpg -> mach-img-lands/mach-img-lands_0044.webp
-2025/01/13 00:07:32.234455 Successfully processed image: mach-img-landscape/image_fx_ (9).jpg -> mach-img-lands/mach-img-lands_0045.webp
-2025/01/13 00:07:32.234671 Total conversion time: 15.12 seconds
-2025/01/13 00:07:32.235049 Media conversion completed
-2025/01/13 02:46:33.959728 Starting media conversion
-2025/01/13 02:46:33.968495 compiled command: ffmpeg -i mach-vid/6777397d483906476uDhy4xzkO1764.mp4 -filter_complex [0]scale=1408:768[s0] -map [s0] -b:v 5000k -c:a aac -c:v libx264 -crf 23 -preset medium mach-vid-lands/vid_potrait_tests_0.mp4 -y
-2025/01/13 02:46:33.968510 compiled command: ffmpeg -i mach-vid/677739fe141489409Xsdvq4j0J8453.mp4 -filter_complex [0]scale=1408:768[s0] -map [s0] -b:v 5000k -c:a aac -c:v libx264 -crf 23 -preset medium mach-vid-lands/vid_potrait_tests_1.mp4 -y
-2025/01/13 02:46:36.697753 compiled command: ffmpeg -i mach-vid/67773a00108642592MLcjRFiLo4489.mp4 -filter_complex [0]scale=1408:768[s0] -map [s0] -b:v 5000k -c:a aac -c:v libx264 -crf 23 -preset medium mach-vid-lands/vid_potrait_tests_2.mp4 -y
-2025/01/13 02:46:36.830864 compiled command: ffmpeg -i mach-vid/6784ee4b1115815031U1nGdfkj2608.mp4 -filter_complex [0]scale=1408:768[s0] -map [s0] -b:v 5000k -c:a aac -c:v libx264 -crf 23 -preset medium mach-vid-lands/vid_potrait_tests_3.mp4 -y
-2025/01/13 02:46:39.114330 compiled command: ffmpeg -i mach-vid/Professional_Mode_16x9_Beautiful_Lady_Walking_towards_t.mp4 -filter_complex [0]scale=1408:768[s0] -map [s0] -b:v 5000k -c:a aac -c:v libx264 -crf 23 -preset medium mach-vid-lands/vid_potrait_tests_4.mp4 -y
-2025/01/13 02:46:40.987776 Total conversion time: 7.03 seconds
-2025/01/13 02:46:40.988092 Media conversion completed
-2025/01/14 01:22:43.508589 Starting media conversion
-2025/01/14 01:22:43.572460 Image size: 1024x1024, Crop area: 0,0 1024x1024
-2025/01/14 01:22:43.572471 Image size: 1024x1024, Crop area: 0,0 1024x1024
-2025/01/14 01:22:43.749420 Successfully processed image: profile/black button boat elbow.jpeg -> corina-david/corina-david_0001.webp
-2025/01/14 01:22:43.765576 Image size: 1024x1024, Crop area: 0,0 1024x1024
-2025/01/14 01:22:43.841735 Successfully processed image: profile/black turtleneck office 3 buff.jpeg -> corina-david/corina-david_0002.webp
-2025/01/14 01:22:43.863782 Image size: 1024x1024, Crop area: 0,0 1024x1024
-2025/01/14 01:22:43.934834 Successfully processed image: profile/blue blazer boat 2 elbow.jpeg -> corina-david/corina-david_0003.webp
-2025/01/14 01:22:43.952413 Image size: 1024x1024, Crop area: 0,0 1024x1024
-2025/01/14 01:22:44.040034 Successfully processed image: profile/blue blazer office.jpeg -> corina-david/corina-david_0004.webp
-2025/01/14 01:22:44.059577 Image size: 1024x1024, Crop area: 0,0 1024x1024
-2025/01/14 01:22:44.234273 Successfully processed image: profile/street blackturle neck half body.jpeg -> corina-david/corina-david_0006.webp
-2025/01/14 01:22:44.314894 Successfully processed image: profile/street blackturle neck elbow.jpeg -> corina-david/corina-david_0005.webp
-2025/01/14 01:22:44.315257 Total conversion time: 0.81 seconds
-2025/01/14 01:22:44.315410 Media conversion completed
-<<<<<<< HEAD
-2025/02/28 11:25:05.919122 Starting media conversion
-2025/02/28 11:25:05.933903 Image size: 2560x1560, Crop area: 706,0 1148x1560
-2025/02/28 11:25:05.933949 Image size: 2560x4120, Crop area: 0,321 2560x3478
-2025/02/28 11:25:06.966328 Successfully processed image: luminous/image10-visualization.png -> luminous_img/luminous_img_0002.webp
-2025/02/28 11:25:06.968493 Image size: 2560x3062, Crop area: 153,0 2253x3062
-2025/02/28 11:25:15.564193 Successfully processed image: luminous/image11-grounding.png -> luminous_img/luminous_img_0003.webp
-2025/02/28 11:25:15.566902 Image size: 2560x3272, Crop area: 76,0 2408x3272
-2025/02/28 11:25:16.098721 Successfully processed image: luminous/image1- vending services.png -> luminous_img/luminous_img_0001.webp
-2025/02/28 11:25:16.100298 Image size: 2560x3354, Crop area: 46,0 2468x3354
-2025/02/28 11:25:25.360975 Successfully processed image: luminous/image12-forginessmeditation.png -> luminous_img/luminous_img_0004.webp
-2025/02/28 11:25:25.363376 Image size: 2560x3104, Crop area: 138,0 2284x3104
-2025/02/28 11:25:26.610321 Successfully processed image: luminous/image13-flightvisualization.png -> luminous_img/luminous_img_0005.webp
-2025/02/28 11:25:26.611724 Image size: 2560x3246, Crop area: 85,0 2389x3246
-2025/02/28 11:25:34.466601 Successfully processed image: luminous/image14-flighttools.png -> luminous_img/luminous_img_0006.webp
-2025/02/28 11:25:34.468362 Image size: 2560x2356, Crop area: 413,0 1734x2356
-2025/02/28 11:25:36.431695 Successfully processed image: luminous/image15-flightforgiveness.png -> luminous_img/luminous_img_0007.webp
-2025/02/28 11:25:36.435263 Image size: 2560x3430, Crop area: 18,0 2524x3430
-2025/02/28 11:25:40.522428 Successfully processed image: luminous/image16-luminous.png -> luminous_img/luminous_img_0008.webp
-2025/02/28 11:25:40.528363 Image size: 2560x3478, Crop area: 0,0 2560x3478
-2025/02/28 11:26:57.998764 Starting media conversion
-2025/02/28 11:26:58.010425 Image size: 2560x4120, Crop area: 114,0 2332x4120
-2025/02/28 11:26:58.010434 Image size: 2560x1560, Crop area: 838,0 883x1560
-2025/02/28 11:26:59.230466 Successfully processed image: luminous/image10-visualization.png -> luminous_img/luminous_img_0002.webp
-2025/02/28 11:26:59.233238 Image size: 2560x3062, Crop area: 413,0 1733x3062
-2025/02/28 11:27:06.407322 Successfully processed image: luminous/image11-grounding.png -> luminous_img/luminous_img_0003.webp
-2025/02/28 11:27:06.409379 Image size: 2560x3272, Crop area: 354,0 1852x3272
-2025/02/28 11:27:09.924830 Successfully processed image: luminous/image1- vending services.png -> luminous_img/luminous_img_0001.webp
-2025/02/28 11:27:09.926629 Image size: 2560x3354, Crop area: 331,0 1898x3354
-2025/02/28 11:27:14.295999 Successfully processed image: luminous/image12-forginessmeditation.png -> luminous_img/luminous_img_0004.webp
-2025/02/28 11:27:14.298276 Image size: 2560x3104, Crop area: 401,0 1757x3104
-2025/02/28 11:27:18.333695 Successfully processed image: luminous/image13-flightvisualization.png -> luminous_img/luminous_img_0005.webp
-2025/02/28 11:27:18.335521 Image size: 2560x3246, Crop area: 361,0 1837x3246
-2025/02/28 11:27:21.768941 Successfully processed image: luminous/image14-flighttools.png -> luminous_img/luminous_img_0006.webp
-2025/02/28 11:27:21.770510 Image size: 2560x2356, Crop area: 613,0 1333x2356
-2025/02/28 11:27:26.497401 Successfully processed image: luminous/image15-flightforgiveness.png -> luminous_img/luminous_img_0007.webp
-2025/02/28 11:27:26.500012 Image size: 2560x3430, Crop area: 309,0 1941x3430
-2025/02/28 11:27:27.056301 Successfully processed image: luminous/image16-luminous.png -> luminous_img/luminous_img_0008.webp
-2025/02/28 11:27:27.060240 Image size: 2560x3478, Crop area: 296,0 1968x3478
-2025/02/28 11:27:36.322612 Successfully processed image: luminous/image17-sallyreid.png -> luminous_img/luminous_img_0009.webp
-2025/02/28 11:27:36.325296 Image size: 2560x4522, Crop area: 0,0 2560x4522
-2025/02/28 11:27:37.659571 Successfully processed image: luminous/image18-laundrydepot.png -> luminous_img/luminous_img_0010.webp
-2025/02/28 11:27:37.662894 Image size: 2560x3480, Crop area: 295,0 1970x3480
-2025/02/28 11:27:48.462309 Successfully processed image: luminous/image3-haruna.png -> luminous_img/luminous_img_0012.webp
-2025/02/28 11:27:48.464482 Image size: 2560x5514, Crop area: 0,496 2560x4522
-2025/02/28 11:27:49.791584 Successfully processed image: luminous/image2-vendingacademy.png -> luminous_img/luminous_img_0011.webp
-2025/02/28 11:27:49.795373 Image size: 2560x2822, Crop area: 481,0 1597x2822
-2025/02/28 11:27:57.988502 Successfully processed image: luminous/image5-winnerschapel.png -> luminous_img/luminous_img_0014.webp
-2025/02/28 11:27:57.992206 Image size: 2560x3726, Crop area: 225,0 2109x3726
-2025/02/28 11:28:00.755291 Successfully processed image: luminous/image4-thatsrightcoaching.png -> luminous_img/luminous_img_0013.webp
-2025/02/28 11:28:00.757142 Image size: 2560x3180, Crop area: 380,0 1800x3180
-2025/02/28 11:28:08.773232 Successfully processed image: luminous/image7-transform-thatsright.png -> luminous_img/luminous_img_0016.webp
-2025/02/28 11:28:08.774894 Image size: 2560x4048, Crop area: 134,0 2291x4048
-2025/02/28 11:28:10.564494 Successfully processed image: luminous/image6-freshlyfielded.png -> luminous_img/luminous_img_0015.webp
-2025/02/28 11:28:10.565693 Image size: 2560x2212, Crop area: 654,0 1252x2212
-2025/02/28 11:28:13.149666 Successfully processed image: luminous/image9-accountabilitygroup.png -> luminous_img/luminous_img_0018.webp
-2025/02/28 11:28:20.445459 Successfully processed image: luminous/image8-deployfunds.png -> luminous_img/luminous_img_0017.webp
-2025/02/28 11:28:20.445497 Total conversion time: 82.45 seconds
-2025/02/28 11:28:20.445568 Media conversion completed
-2025/02/28 11:29:39.855504 Starting media conversion
-2025/02/28 11:29:39.868865 Image size: 2560x4120, Crop area: 0,510 2560x3100
-2025/02/28 11:29:39.868953 Image size: 2560x1560, Crop area: 636,0 1288x1560
-2025/02/28 11:29:42.594889 Successfully processed image: luminous/image10-visualization.png -> luminous_img/luminous_img_0002.webp
-2025/02/28 11:29:42.596918 Image size: 2560x3062, Crop area: 16,0 2528x3062
-2025/02/28 11:29:51.488514 Successfully processed image: luminous/image1- vending services.png -> luminous_img/luminous_img_0001.webp
-2025/02/28 11:29:51.490604 Image size: 2560x3272, Crop area: 0,86 2560x3100
-2025/02/28 11:29:53.425943 Successfully processed image: luminous/image11-grounding.png -> luminous_img/luminous_img_0003.webp
-2025/02/28 11:29:53.428237 Image size: 2560x3354, Crop area: 0,127 2560x3100
-2025/02/28 11:30:03.050148 Successfully processed image: luminous/image12-forginessmeditation.png -> luminous_img/luminous_img_0004.webp
-2025/02/28 11:30:03.052009 Image size: 2560x3104, Crop area: 0,2 2560x3100
-2025/02/28 11:30:05.115626 Successfully processed image: luminous/image13-flightvisualization.png -> luminous_img/luminous_img_0005.webp
-2025/02/28 11:30:05.116958 Image size: 2560x3246, Crop area: 0,73 2560x3100
-2025/02/28 11:30:14.608327 Successfully processed image: luminous/image14-flighttools.png -> luminous_img/luminous_img_0006.webp
-2025/02/28 11:30:14.610188 Image size: 2560x2356, Crop area: 307,0 1945x2356
-2025/02/28 11:30:16.563654 Successfully processed image: luminous/image15-flightforgiveness.png -> luminous_img/luminous_img_0007.webp
-2025/02/28 11:30:16.568322 Image size: 2560x3430, Crop area: 0,165 2560x3100
-2025/02/28 11:30:22.683759 Successfully processed image: luminous/image16-luminous.png -> luminous_img/luminous_img_0008.webp
-2025/02/28 11:30:22.687656 Image size: 2560x3478, Crop area: 0,189 2560x3100
-2025/02/28 11:30:29.159863 Successfully processed image: luminous/image17-sallyreid.png -> luminous_img/luminous_img_0009.webp
-2025/02/28 11:30:29.162290 Image size: 2560x4522, Crop area: 0,711 2560x3100
-2025/02/28 11:55:08.809022 Starting media conversion
-2025/02/28 11:55:08.825485 Image size: 2560x1560, Crop area: 666,0 1228x1560
-2025/02/28 11:55:08.825505 Image size: 2560x4120, Crop area: 0,434 2560x3251
-2025/02/28 11:55:11.234365 Successfully processed image: luminous/image10-visualization.png -> luminous_img/luminous_img_0002.webp
-2025/02/28 11:55:11.236357 Image size: 2560x3062, Crop area: 75,0 2410x3062
-2025/02/28 11:55:15.755460 Successfully processed image: luminous/image11-grounding.png -> luminous_img/luminous_img_0003.webp
-2025/02/28 11:55:15.758499 Image size: 2560x3272, Crop area: 0,10 2560x3251
-2025/02/28 11:55:22.383756 Successfully processed image: luminous/image12-forginessmeditation.png -> luminous_img/luminous_img_0004.webp
-2025/02/28 11:55:22.386474 Image size: 2560x3354, Crop area: 0,51 2560x3251
-2025/02/28 11:55:23.709696 Successfully processed image: luminous/image1- vending services.png -> luminous_img/luminous_img_0001.webp
-2025/02/28 11:55:23.712062 Image size: 2560x3104, Crop area: 58,0 2443x3104
-2025/02/28 11:55:30.492434 Successfully processed image: luminous/image14-flighttools.png -> luminous_img/luminous_img_0006.webp
-2025/02/28 11:55:30.494926 Image size: 2560x3246, Crop area: 2,0 2555x3246
-2025/02/28 11:55:32.432681 Successfully processed image: luminous/image13-flightvisualization.png -> luminous_img/luminous_img_0005.webp
-2025/02/28 11:55:32.434298 Image size: 2560x2356, Crop area: 353,0 1854x2356
-2025/02/28 11:55:36.420909 Successfully processed image: luminous/image16-luminous.png -> luminous_img/luminous_img_0008.webp
-2025/02/28 11:55:36.424471 Image size: 2560x3430, Crop area: 0,89 2560x3251
-2025/02/28 11:55:36.610607 Successfully processed image: luminous/image15-flightforgiveness.png -> luminous_img/luminous_img_0007.webp
-2025/02/28 11:55:36.615351 Image size: 2560x3478, Crop area: 0,113 2560x3251
-2025/02/28 11:55:51.876522 Successfully processed image: luminous/image17-sallyreid.png -> luminous_img/luminous_img_0009.webp
-2025/02/28 11:55:51.879005 Image size: 2560x4522, Crop area: 0,635 2560x3251
-2025/02/28 11:55:52.124321 Successfully processed image: luminous/image18-laundrydepot.png -> luminous_img/luminous_img_0010.webp
-2025/02/28 11:55:52.129348 Image size: 2560x3480, Crop area: 0,114 2560x3251
-2025/02/28 11:56:03.354996 Successfully processed image: luminous/image2-vendingacademy.png -> luminous_img/luminous_img_0011.webp
-2025/02/28 11:56:03.357276 Image size: 2560x5514, Crop area: 0,1131 2560x3251
-2025/02/28 11:56:06.529712 Successfully processed image: luminous/image4-thatsrightcoaching.png -> luminous_img/luminous_img_0013.webp
-2025/02/28 11:56:06.533154 Image size: 2560x2822, Crop area: 169,0 2221x2822
-2025/02/28 11:56:07.549853 Successfully processed image: luminous/image3-haruna.png -> luminous_img/luminous_img_0012.webp
-2025/02/28 11:56:07.553932 Image size: 2560x3726, Crop area: 0,237 2560x3251
-2025/02/28 11:56:20.888765 Successfully processed image: luminous/image5-winnerschapel.png -> luminous_img/luminous_img_0014.webp
-2025/02/28 11:56:20.890606 Image size: 2560x3180, Crop area: 28,0 2503x3180
-2025/02/28 11:56:26.828775 Successfully processed image: luminous/image6-freshlyfielded.png -> luminous_img/luminous_img_0015.webp
-2025/02/28 11:56:26.831039 Image size: 2560x4048, Crop area: 0,398 2560x3251
-2025/02/28 11:56:27.433216 Successfully processed image: luminous/image7-transform-thatsright.png -> luminous_img/luminous_img_0016.webp
-2025/02/28 11:56:27.434391 Image size: 2560x2212, Crop area: 409,0 1741x2212
-2025/02/28 11:56:30.346358 Successfully processed image: luminous/image9-accountabilitygroup.png -> luminous_img/luminous_img_0018.webp
-2025/02/28 11:56:33.865984 Successfully processed image: luminous/image8-deployfunds.png -> luminous_img/luminous_img_0017.webp
-2025/02/28 11:56:33.866136 Total conversion time: 85.06 seconds
-2025/02/28 11:56:33.866188 Media conversion completed
-2025/02/28 12:09:15.411757 Starting media conversion
-2025/02/28 12:09:15.453133 Image size: 2560x4120, Crop area: 114,0 2332x4120
-2025/02/28 12:09:15.453160 Image size: 2560x1560, Crop area: 838,0 883x1560
-2025/02/28 12:09:20.559346 Successfully processed image: luminous/image10-visualization.png -> luminous_img/luminous_img_0001.webp
-2025/02/28 12:09:20.561973 Image size: 2560x3062, Crop area: 413,0 1733x3062
-2025/02/28 12:09:33.434160 Successfully processed image: luminous/image11-grounding.png -> luminous_img/luminous_img_0003.webp
-2025/02/28 12:09:33.437062 Image size: 2560x3272, Crop area: 354,0 1852x3272
-2025/02/28 12:09:39.403870 Successfully processed image: luminous/image1- vending services.png -> luminous_img/luminous_img_0002.webp
-2025/02/28 12:09:39.406235 Image size: 2560x3354, Crop area: 331,0 1898x3354
-2025/02/28 12:09:46.138614 Successfully processed image: luminous/image12-forginessmeditation.png -> luminous_img/luminous_img_0004.webp
-2025/02/28 12:09:46.141421 Image size: 2560x3104, Crop area: 401,0 1757x3104
-2025/02/28 12:09:51.717556 Successfully processed image: luminous/image13-flightvisualization.png -> luminous_img/luminous_img_0005.webp
-2025/02/28 12:09:51.719700 Image size: 2560x3246, Crop area: 361,0 1837x3246
-2025/02/28 12:09:56.950985 Successfully processed image: luminous/image14-flighttools.png -> luminous_img/luminous_img_0006.webp
-2025/02/28 12:09:56.952948 Image size: 2560x2356, Crop area: 613,0 1333x2356
-2025/02/28 12:10:04.282712 Successfully processed image: luminous/image15-flightforgiveness.png -> luminous_img/luminous_img_0007.webp
-2025/02/28 12:10:04.285650 Image size: 2560x3430, Crop area: 309,0 1941x3430
-2025/02/28 12:10:05.301211 Successfully processed image: luminous/image16-luminous.png -> luminous_img/luminous_img_0008.webp
-2025/02/28 12:10:05.311712 Image size: 2560x3478, Crop area: 296,0 1968x3478
-2025/02/28 12:10:18.064413 Successfully processed image: luminous/image17-sallyreid.png -> luminous_img/luminous_img_0009.webp
-2025/02/28 12:10:18.067906 Image size: 2560x4522, Crop area: 0,0 2560x4522
-2025/02/28 12:10:20.317772 Successfully processed image: luminous/image18-laundrydepot.png -> luminous_img/luminous_img_0010.webp
-2025/02/28 12:10:20.321919 Image size: 2560x3480, Crop area: 295,0 1970x3480
-2025/02/28 12:10:35.718354 Successfully processed image: luminous/image3-haruna.png -> luminous_img/luminous_img_0012.webp
-2025/02/28 12:10:35.721089 Image size: 2560x5514, Crop area: 0,496 2560x4522
-2025/02/28 12:10:37.096958 Successfully processed image: luminous/image2-vendingacademy.png -> luminous_img/luminous_img_0011.webp
-2025/02/28 12:10:37.100448 Image size: 2560x2822, Crop area: 481,0 1597x2822
-2025/02/28 12:10:48.557236 Successfully processed image: luminous/image5-winnerschapel.png -> luminous_img/luminous_img_0014.webp
-2025/02/28 12:10:48.561329 Image size: 2560x3726, Crop area: 225,0 2109x3726
-2025/02/28 12:10:52.336537 Successfully processed image: luminous/image4-thatsrightcoaching.png -> luminous_img/luminous_img_0013.webp
-2025/02/28 12:10:52.338490 Image size: 2560x3180, Crop area: 380,0 1800x3180
-2025/02/28 12:11:03.186430 Successfully processed image: luminous/image7-transform-thatsright.png -> luminous_img/luminous_img_0016.webp
-2025/02/28 12:11:03.188463 Image size: 2560x4048, Crop area: 134,0 2291x4048
-2025/02/28 12:11:05.224323 Successfully processed image: luminous/image6-freshlyfielded.png -> luminous_img/luminous_img_0015.webp
-2025/02/28 12:11:05.225500 Image size: 2560x2212, Crop area: 654,0 1252x2212
-2025/02/28 12:11:08.115950 Successfully processed image: luminous/image9-accountabilitygroup.png -> luminous_img/luminous_img_0018.webp
-2025/02/28 12:11:19.429424 Successfully processed image: luminous/image8-deployfunds.png -> luminous_img/luminous_img_0017.webp
-2025/02/28 12:11:19.430079 Total conversion time: 124.02 seconds
-2025/02/28 12:11:19.430191 Media conversion completed
-2025/02/28 12:12:13.777244 Starting media conversion
-2025/02/28 12:12:13.793686 Image size: 2560x4120, Crop area: 0,353 2560x3413
-2025/02/28 12:12:13.794355 Image size: 2560x1560, Crop area: 695,0 1170x1560
-2025/02/28 12:12:17.608888 Successfully processed image: luminous/image10-visualization.png -> luminous_img/luminous_img_0002.webp
-2025/02/28 12:12:17.610885 Image size: 2560x3062, Crop area: 132,0 2296x3062
-2025/02/28 12:12:31.190392 Successfully processed image: luminous/image1- vending services.png -> luminous_img/luminous_img_0001.webp
-2025/02/28 12:12:31.192803 Image size: 2560x3272, Crop area: 53,0 2454x3272
-2025/02/28 12:12:31.902984 Successfully processed image: luminous/image11-grounding.png -> luminous_img/luminous_img_0003.webp
-2025/02/28 12:12:31.904998 Image size: 2560x3354, Crop area: 22,0 2515x3354
-2025/02/28 12:12:46.939538 Successfully processed image: luminous/image12-forginessmeditation.png -> luminous_img/luminous_img_0004.webp
-2025/02/28 12:12:46.942582 Image size: 2560x3104, Crop area: 116,0 2328x3104
-2025/02/28 12:12:48.667503 Successfully processed image: luminous/image13-flightvisualization.png -> luminous_img/luminous_img_0005.webp
-2025/02/28 12:12:48.669054 Image size: 2560x3246, Crop area: 63,0 2434x3246
-2025/02/28 12:13:01.914462 Successfully processed image: luminous/image14-flighttools.png -> luminous_img/luminous_img_0006.webp
-2025/02/28 12:13:01.916166 Image size: 2560x2356, Crop area: 396,0 1767x2356
-2025/02/28 12:13:04.396062 Successfully processed image: luminous/image15-flightforgiveness.png -> luminous_img/luminous_img_0007.webp
-2025/02/28 12:13:04.400060 Image size: 2560x3430, Crop area: 0,8 2560x3413
-2025/02/28 12:13:12.665778 Successfully processed image: luminous/image16-luminous.png -> luminous_img/luminous_img_0008.webp
-2025/02/28 12:13:12.670691 Image size: 2560x3478, Crop area: 0,32 2560x3413
-2025/02/28 12:13:23.424135 Successfully processed image: luminous/image17-sallyreid.png -> luminous_img/luminous_img_0009.webp
-2025/02/28 12:13:23.427386 Image size: 2560x4522, Crop area: 0,554 2560x3413
-2025/02/28 12:13:32.767466 Successfully processed image: luminous/image18-laundrydepot.png -> luminous_img/luminous_img_0010.webp
-2025/02/28 12:13:32.770978 Image size: 2560x3480, Crop area: 0,33 2560x3413
-2025/02/28 12:13:42.291878 Successfully processed image: luminous/image2-vendingacademy.png -> luminous_img/luminous_img_0011.webp
-2025/02/28 12:13:42.294350 Image size: 2560x5514, Crop area: 0,1050 2560x3413
-2025/02/28 12:13:53.243188 Successfully processed image: luminous/image3-haruna.png -> luminous_img/luminous_img_0012.webp
-2025/02/28 12:13:53.248606 Image size: 2560x2822, Crop area: 222,0 2116x2822
-2025/02/28 12:13:58.044634 Successfully processed image: luminous/image4-thatsrightcoaching.png -> luminous_img/luminous_img_0013.webp
-2025/02/28 12:13:58.048155 Image size: 2560x3726, Crop area: 0,156 2560x3413
-2025/02/28 12:14:09.470530 Successfully processed image: luminous/image5-winnerschapel.png -> luminous_img/luminous_img_0014.webp
-2025/02/28 12:14:09.472773 Image size: 2560x3180, Crop area: 87,0 2385x3180
-2025/02/28 12:14:18.152085 Successfully processed image: luminous/image6-freshlyfielded.png -> luminous_img/luminous_img_0015.webp
-2025/02/28 12:14:18.154408 Image size: 2560x4048, Crop area: 0,317 2560x3413
-2025/02/28 12:14:25.695164 Successfully processed image: luminous/image7-transform-thatsright.png -> luminous_img/luminous_img_0016.webp
-2025/02/28 12:14:25.696782 Image size: 2560x2212, Crop area: 450,0 1659x2212
-2025/02/28 12:14:34.066509 Successfully processed image: luminous/image9-accountabilitygroup.png -> luminous_img/luminous_img_0018.webp
-2025/02/28 12:14:36.556324 Successfully processed image: luminous/image8-deployfunds.png -> luminous_img/luminous_img_0017.webp
-2025/02/28 12:14:36.556367 Total conversion time: 142.78 seconds
-2025/02/28 12:14:36.556488 Media conversion completed
-2025/02/28 12:16:34.621911 Starting media conversion
-2025/02/28 12:16:34.632231 Image size: 2560x3062, Crop area: 329,0 1902x3062
-2025/02/28 12:16:34.632228 Image size: 2560x4120, Crop area: 0,0 2560x4120
-2025/02/28 12:16:44.764323 Successfully processed image: luminous/image11-grounding.png -> luminous-img/luminous-img_0002.webp
-2025/02/28 12:16:44.765175 Image size: 2560x3272, Crop area: 263,0 2033x3272
-2025/02/28 12:16:49.909327 Successfully processed image: luminous/image1- vending services.png -> luminous-img/luminous-img_0001.webp
-2025/02/28 12:16:49.911394 Image size: 2560x3354, Crop area: 238,0 2084x3354
-2025/02/28 12:16:55.953610 Successfully processed image: luminous/image12-forginessmeditation.png -> luminous-img/luminous-img_0003.webp
-2025/02/28 12:16:55.955589 Image size: 2560x3104, Crop area: 316,0 1928x3104
-2025/02/28 12:17:02.045175 Successfully processed image: luminous/image13-flightvisualization.png -> luminous-img/luminous-img_0004.webp
-2025/02/28 12:17:02.047464 Image size: 2560x3246, Crop area: 272,0 2016x3246
-2025/02/28 12:17:06.561224 Successfully processed image: luminous/image14-flighttools.png -> luminous-img/luminous-img_0005.webp
-2025/02/28 12:17:06.563372 Image size: 2560x2356, Crop area: 548,0 1463x2356
-2025/02/28 12:17:13.347903 Successfully processed image: luminous/image15-flightforgiveness.png -> luminous-img/luminous-img_0006.webp
-2025/02/28 12:17:13.351062 Image size: 2560x3430, Crop area: 214,0 2131x3430
-2025/02/28 12:17:13.845461 Successfully processed image: luminous/image16-luminous.png -> luminous-img/luminous-img_0007.webp
-2025/02/28 12:17:13.851218 Image size: 2560x3478, Crop area: 199,0 2161x3478
-2025/02/28 12:17:27.150138 Successfully processed image: luminous/image17-sallyreid.png -> luminous-img/luminous-img_0008.webp
-2025/02/28 12:17:27.154684 Image size: 2560x4522, Crop area: 0,201 2560x4120
-2025/02/28 12:17:28.845470 Successfully processed image: luminous/image18-laundrydepot.png -> luminous-img/luminous-img_0009.webp
-2025/02/28 12:17:28.850181 Image size: 2560x3480, Crop area: 199,0 2162x3480
-2025/02/28 12:17:43.402283 Successfully processed image: luminous/image2-vendingacademy.png -> luminous-img/luminous-img_0010.webp
-2025/02/28 12:17:43.404718 Image size: 2560x5514, Crop area: 0,697 2560x4120
-2025/02/28 12:17:43.788154 Successfully processed image: luminous/image3-haruna.png -> luminous-img/luminous-img_0011.webp
-2025/02/28 12:17:43.791457 Image size: 2560x2822, Crop area: 403,0 1753x2822
-2025/02/28 12:17:55.422316 Successfully processed image: luminous/image5-winnerschapel.png -> luminous-img/luminous-img_0013.webp
-2025/02/28 12:17:55.424774 Image size: 2560x3726, Crop area: 122,0 2315x3726
-2025/02/28 12:17:57.959694 Successfully processed image: luminous/image4-thatsrightcoaching.png -> luminous-img/luminous-img_0012.webp
-2025/02/28 12:17:57.960500 Image size: 2560x3180, Crop area: 292,0 1975x3180
-2025/02/28 12:18:09.073273 Successfully processed image: luminous/image7-transform-thatsright.png -> luminous-img/luminous-img_0015.webp
-2025/02/28 12:18:09.074370 Image size: 2560x4048, Crop area: 22,0 2515x4048
-2025/02/28 12:18:12.381711 Successfully processed image: luminous/image6-freshlyfielded.png -> luminous-img/luminous-img_0014.webp
-2025/02/28 12:18:12.382192 Image size: 2560x2212, Crop area: 593,0 1374x2212
-2025/02/28 12:18:15.360331 Successfully processed image: luminous/image9-accountabilitygroup.png -> luminous-img/luminous-img_0017.webp
-2025/02/28 12:18:25.347351 Successfully processed image: luminous/image8-deployfunds.png -> luminous-img/luminous-img_0016.webp
-2025/02/28 12:18:25.347416 Total conversion time: 110.73 seconds
-2025/02/28 12:18:25.347490 Media conversion completed
-2025/02/28 12:21:30.969659 Starting media conversion
-2025/02/28 12:21:30.980210 Image size: 2560x3062, Crop area: 569,0 1421x3062
-2025/02/28 12:21:30.981009 Image size: 2560x4120, Crop area: 324,0 1912x4120
-2025/02/28 12:21:39.194393 Successfully processed image: luminous/image11-grounding.png -> luminous-img/luminous-img_0001.webp
-2025/02/28 12:21:39.195859 Image size: 2560x3272, Crop area: 520,0 1519x3272
-2025/02/28 12:21:44.936294 Successfully processed image: luminous/image1- vending services.png -> luminous-img/luminous-img_0002.webp
-2025/02/28 12:21:44.938390 Image size: 2560x3354, Crop area: 501,0 1557x3354
-2025/02/28 12:21:48.729171 Successfully processed image: luminous/image12-forginessmeditation.png -> luminous-img/luminous-img_0003.webp
-2025/02/28 12:21:48.730036 Image size: 2560x3104, Crop area: 559,0 1441x3104
-2025/02/28 12:21:55.162090 Successfully processed image: luminous/image13-flightvisualization.png -> luminous-img/luminous-img_0004.webp
-2025/02/28 12:21:55.163146 Image size: 2560x3246, Crop area: 526,0 1507x3246
-2025/02/28 12:21:57.579616 Successfully processed image: luminous/image14-flighttools.png -> luminous-img/luminous-img_0005.webp
-2025/02/28 12:21:57.580573 Image size: 2560x2356, Crop area: 733,0 1093x2356
-2025/02/28 12:22:03.718926 Successfully processed image: luminous/image16-luminous.png -> luminous-img/luminous-img_0007.webp
-2025/02/28 12:22:03.721686 Image size: 2560x3430, Crop area: 484,0 1592x3430
-2025/02/28 12:22:04.873037 Successfully processed image: luminous/image15-flightforgiveness.png -> luminous-img/luminous-img_0006.webp
-2025/02/28 12:22:04.876573 Image size: 2560x3478, Crop area: 473,0 1614x3478
-2025/02/28 12:22:15.430300 Successfully processed image: luminous/image17-sallyreid.png -> luminous-img/luminous-img_0008.webp
-2025/02/28 12:22:15.432584 Image size: 2560x4522, Crop area: 230,0 2099x4522
-2025/02/28 12:22:17.388282 Successfully processed image: luminous/image18-laundrydepot.png -> luminous-img/luminous-img_0009.webp
-2025/02/28 12:22:17.392360 Image size: 2560x3480, Crop area: 472,0 1615x3480
-2025/02/28 12:22:29.645512 Successfully processed image: luminous/image3-haruna.png -> luminous-img/luminous-img_0011.webp
-2025/02/28 12:22:29.647108 Image size: 2560x5514, Crop area: 0,0 2560x5514
-2025/02/28 12:22:32.453664 Successfully processed image: luminous/image2-vendingacademy.png -> luminous-img/luminous-img_0010.webp
-2025/02/28 12:22:32.455366 Image size: 2560x2822, Crop area: 625,0 1310x2822
-2025/02/28 12:22:42.028895 Successfully processed image: luminous/image5-winnerschapel.png -> luminous-img/luminous-img_0013.webp
-2025/02/28 12:22:42.031664 Image size: 2560x3726, Crop area: 415,0 1729x3726
-2025/02/28 12:22:48.937965 Successfully processed image: luminous/image4-thatsrightcoaching.png -> luminous-img/luminous-img_0012.webp
-2025/02/28 12:22:48.938812 Image size: 2560x3180, Crop area: 542,0 1476x3180
-2025/02/28 12:22:56.245858 Successfully processed image: luminous/image6-freshlyfielded.png -> luminous-img/luminous-img_0014.webp
-2025/02/28 12:22:56.247552 Image size: 2560x4048, Crop area: 340,0 1879x4048
-2025/02/28 12:22:57.644395 Successfully processed image: luminous/image7-transform-thatsright.png -> luminous-img/luminous-img_0015.webp
-2025/02/28 12:22:57.644900 Image size: 2560x2212, Crop area: 767,0 1026x2212
-2025/02/28 12:23:00.002332 Successfully processed image: luminous/image9-accountabilitygroup.png -> luminous-img/luminous-img_0017.webp
-2025/02/28 12:23:00.014035 Image size: 2560x4120, Crop area: 324,0 1912x4120
-2025/02/28 12:23:09.647999 Successfully processed image: luminous/image8-deployfunds.png -> luminous-img/luminous-img_0016.webp
-2025/02/28 12:23:14.947758 Successfully processed image: luminous/luminous-img_0001.webp -> luminous-img/luminous-img_0018.webp
-2025/02/28 12:23:14.947820 Total conversion time: 103.98 seconds
-2025/02/28 12:23:14.947905 Media conversion completed
-2025/02/28 12:25:02.574094 Starting media conversion
-2025/02/28 12:25:02.584590 Image size: 2560x4120, Crop area: 114,0 2332x4120
-2025/02/28 12:25:02.584601 Image size: 2560x3062, Crop area: 413,0 1733x3062
-2025/02/28 12:25:12.387784 Successfully processed image: luminous/image11-grounding.png -> luminous-img/luminous-img_0001.webp
-2025/02/28 12:25:12.388715 Image size: 2560x3272, Crop area: 354,0 1852x3272
-2025/02/28 12:25:18.814518 Successfully processed image: luminous/image1- vending services.png -> luminous-img/luminous-img_0002.webp
-2025/02/28 12:25:18.816280 Image size: 2560x3354, Crop area: 331,0 1898x3354
-2025/02/28 12:25:23.185655 Successfully processed image: luminous/image12-forginessmeditation.png -> luminous-img/luminous-img_0003.webp
-2025/02/28 12:25:23.186463 Image size: 2560x3104, Crop area: 401,0 1757x3104
-2025/02/28 12:25:30.336884 Successfully processed image: luminous/image13-flightvisualization.png -> luminous-img/luminous-img_0004.webp
-2025/02/28 12:25:30.338505 Image size: 2560x3246, Crop area: 361,0 1837x3246
-2025/02/28 12:25:33.243287 Successfully processed image: luminous/image14-flighttools.png -> luminous-img/luminous-img_0005.webp
-2025/02/28 12:25:33.243954 Image size: 2560x2356, Crop area: 613,0 1333x2356
-2025/02/28 12:25:40.018107 Successfully processed image: luminous/image16-luminous.png -> luminous-img/luminous-img_0007.webp
-2025/02/28 12:25:40.020009 Image size: 2560x3430, Crop area: 309,0 1941x3430
-2025/02/28 12:25:40.940454 Successfully processed image: luminous/image15-flightforgiveness.png -> luminous-img/luminous-img_0006.webp
-2025/02/28 12:25:40.943973 Image size: 2560x3478, Crop area: 296,0 1968x3478
-2025/02/28 12:25:52.767444 Successfully processed image: luminous/image17-sallyreid.png -> luminous-img/luminous-img_0008.webp
-2025/02/28 12:25:52.769740 Image size: 2560x4522, Crop area: 0,0 2560x4522
-2025/02/28 12:25:54.825734 Successfully processed image: luminous/image18-laundrydepot.png -> luminous-img/luminous-img_0009.webp
-2025/02/28 12:25:54.827397 Image size: 2560x3480, Crop area: 295,0 1970x3480
-2025/02/28 12:26:08.853314 Successfully processed image: luminous/image3-haruna.png -> luminous-img/luminous-img_0011.webp
-2025/02/28 12:26:08.854206 Image size: 2560x5514, Crop area: 0,496 2560x4522
-2025/02/28 12:26:10.359242 Successfully processed image: luminous/image2-vendingacademy.png -> luminous-img/luminous-img_0010.webp
-2025/02/28 12:26:10.361177 Image size: 2560x2822, Crop area: 481,0 1597x2822
-2025/02/28 12:26:21.186727 Successfully processed image: luminous/image5-winnerschapel.png -> luminous-img/luminous-img_0013.webp
-2025/02/28 12:26:21.189618 Image size: 2560x3726, Crop area: 225,0 2109x3726
-2025/02/28 12:26:24.576365 Successfully processed image: luminous/image4-thatsrightcoaching.png -> luminous-img/luminous-img_0012.webp
-2025/02/28 12:26:24.577201 Image size: 2560x3180, Crop area: 380,0 1800x3180
-2025/02/28 12:26:34.854219 Successfully processed image: luminous/image7-transform-thatsright.png -> luminous-img/luminous-img_0015.webp
-2025/02/28 12:26:34.855310 Image size: 2560x4048, Crop area: 134,0 2291x4048
-2025/02/28 12:26:36.845575 Successfully processed image: luminous/image6-freshlyfielded.png -> luminous-img/luminous-img_0014.webp
-2025/02/28 12:26:36.846379 Image size: 2560x2212, Crop area: 654,0 1252x2212
-2025/02/28 12:26:39.556627 Successfully processed image: luminous/image9-accountabilitygroup.png -> luminous-img/luminous-img_0017.webp
-2025/02/28 12:26:39.563330 Image size: 2560x4120, Crop area: 114,0 2332x4120
-2025/02/28 12:26:50.045207 Successfully processed image: luminous/image8-deployfunds.png -> luminous-img/luminous-img_0016.webp
-2025/02/28 12:26:50.074062 Image size: 2099x4522, Crop area: 0,407 2099x3707
-2025/02/28 12:26:57.135806 Successfully processed image: luminous/luminous-img_0001.webp -> luminous-img/luminous-img_0018.webp
-2025/02/28 12:26:57.179172 Image size: 2560x5514, Crop area: 0,496 2560x4522
-2025/02/28 12:27:05.847706 Successfully processed image: luminous/luminous-img_0010.webp -> luminous-img/luminous-img_0019.webp
-2025/02/28 12:27:15.041019 Successfully processed image: luminous/luminous-img_0012.webp -> luminous-img/luminous-img_0020.webp
-2025/02/28 12:27:15.041094 Total conversion time: 132.47 seconds
-2025/02/28 12:27:15.041195 Media conversion completed
-2025/02/28 15:24:13.361398 Starting media conversion
-2025/02/28 15:24:13.387867 Image size: 2560x4120, Crop area: 0,50 2560x4019
-2025/02/28 15:24:13.387888 Image size: 2880x11240, Crop area: 0,3359 2880x4522
-2025/02/28 15:24:32.861644 Successfully processed image: luminous/image1- vending services.png -> luminous-img/luminous-img_0002.webp
-2025/02/28 15:24:32.864546 Image size: 2560x3062, Crop area: 305,0 1950x3062
-2025/02/28 15:24:40.112648 Successfully processed image: luminous/haruna-img.png -> luminous-img/luminous-img_0001.webp
-2025/02/28 15:24:40.115335 Image size: 2560x3272, Crop area: 238,0 2083x3272
-2025/02/28 15:24:45.048475 Successfully processed image: luminous/image11-grounding.png -> luminous-img/luminous-img_0003.webp
-2025/02/28 15:24:45.050789 Image size: 2560x3354, Crop area: 212,0 2136x3354
-2025/02/28 15:24:53.428017 Successfully processed image: luminous/image12-forginessmeditation.png -> luminous-img/luminous-img_0004.webp
-2025/02/28 15:24:53.430495 Image size: 2560x3104, Crop area: 292,0 1976x3104
-2025/02/28 15:24:58.945151 Successfully processed image: luminous/image13-flightvisualization.png -> luminous-img/luminous-img_0005.webp
-2025/02/28 15:24:58.947946 Image size: 2560x3246, Crop area: 246,0 2067x3246
-2025/02/28 15:25:05.826540 Successfully processed image: luminous/image14-flighttools.png -> luminous-img/luminous-img_0006.webp
-2025/02/28 15:25:05.828351 Image size: 2560x2356, Crop area: 530,0 1500x2356
-2025/02/28 15:25:12.137680 Successfully processed image: luminous/image15-flightforgiveness.png -> luminous-img/luminous-img_0007.webp
-2025/02/28 15:25:12.140732 Image size: 2560x3430, Crop area: 188,0 2184x3430
-2025/02/28 15:25:13.956323 Successfully processed image: luminous/image16-luminous.png -> luminous-img/luminous-img_0008.webp
-2025/02/28 15:25:13.960933 Image size: 2560x3478, Crop area: 172,0 2215x3478
-2025/02/28 15:25:27.395427 Successfully processed image: luminous/image17-sallyreid.png -> luminous-img/luminous-img_0009.webp
-2025/02/28 15:25:27.398950 Image size: 2560x4522, Crop area: 0,251 2560x4019
-2025/02/28 15:25:30.705690 Successfully processed image: luminous/image18-laundrydepot.png -> luminous-img/luminous-img_0010.webp
-2025/02/28 15:25:30.708432 Image size: 2560x5514, Crop area: 0,747 2560x4019
-2025/02/28 15:25:47.018266 Successfully processed image: luminous/image2-vendingacademy.png -> luminous-img/luminous-img_0011.webp
-2025/02/28 15:25:47.022186 Image size: 2560x2822, Crop area: 381,0 1797x2822
-2025/02/28 15:25:48.068530 Successfully processed image: luminous/image4-thatsrightcoaching.png -> luminous-img/luminous-img_0012.webp
-2025/02/28 15:25:48.072097 Image size: 2560x3726, Crop area: 93,0 2373x3726
-2025/02/28 15:26:00.258640 Successfully processed image: luminous/image5-winnerschapel.png -> luminous-img/luminous-img_0013.webp
-2025/02/28 15:26:00.261601 Image size: 2560x3180, Crop area: 267,0 2025x3180
-2025/02/28 15:26:07.101132 Successfully processed image: luminous/image6-freshlyfielded.png -> luminous-img/luminous-img_0014.webp
-2025/02/28 15:26:07.103818 Image size: 2560x4048, Crop area: 0,14 2560x4019
-2025/02/28 15:26:12.992689 Successfully processed image: luminous/image7-transform-thatsright.png -> luminous-img/luminous-img_0015.webp
-2025/02/28 15:26:12.993968 Image size: 2560x2212, Crop area: 576,0 1408x2212
-2025/02/28 15:26:16.690390 Successfully processed image: luminous/image9-accountabilitygroup.png -> luminous-img/luminous-img_0017.webp
-2025/02/28 15:26:25.399879 Successfully processed image: luminous/image8-deployfunds.png -> luminous-img/luminous-img_0016.webp
-2025/02/28 15:26:25.399939 Total conversion time: 132.04 seconds
-2025/02/28 15:26:25.400010 Media conversion completed
-=======
->>>>>>> origin/main
+2025/06/08 04:09:41.293324 Starting media conversion
+2025/06/08 04:09:41.297390 Found 578 files to process
+2025/06/08 04:09:41.297416 Processing batch 1-5 of 578 files
+2025/06/08 04:09:41.297560 Processing file: worldover-img/.DS_Store (type: unknown)
+2025/06/08 04:09:41.297576 Skipping unknown file type: worldover-img/.DS_Store
+2025/06/08 04:09:41.297597 Processing file: worldover-img/21-0165386.jpeg (type: image)
+2025/06/08 04:09:41.311238 Image size: 1365x768, Crop area: 106,0 1152x768
+2025/06/08 04:09:44.960279 Successfully processed image: worldover-img/21-0165386.jpeg -> worldover-landscape/worldover-landscape_0001.webp
+2025/06/08 04:09:44.961268 Processing file: worldover-img/21-0165392.jpeg (type: image)
+2025/06/08 04:09:44.964824 Image size: 2048x1365, Crop area: 0,0 2047x1365
+2025/06/08 04:09:53.155020 Successfully processed image: worldover-img/21-0165392.jpeg -> worldover-landscape/worldover-landscape_0002.webp
+2025/06/08 04:09:53.155595 Processing file: worldover-img/21-0165404.jpeg (type: image)
+2025/06/08 04:09:53.157948 Image size: 2048x1365, Crop area: 0,0 2047x1365
+2025/06/08 04:10:02.717749 Successfully processed image: worldover-img/21-0165404.jpeg -> worldover-landscape/worldover-landscape_0003.webp
+2025/06/08 04:10:02.718384 Processing file: worldover-img/21-0166301_16x9.jpeg (type: image)
+2025/06/08 04:10:02.721052 Image size: 3200x1800, Crop area: 250,0 2700x1800
+2025/06/08 04:10:13.521121 Successfully processed image: worldover-img/21-0166301_16x9.jpeg -> worldover-landscape/worldover-landscape_0004.webp
+2025/06/08 04:10:13.623284 Processing batch 6-10 of 578 files
+2025/06/08 04:10:13.623784 Processing file: worldover-img/22-0174741.jpeg (type: image)
+2025/06/08 04:10:13.631473 Image size: 2048x1162, Crop area: 152,0 1743x1162
+2025/06/08 04:10:21.457381 Successfully processed image: worldover-img/22-0174741.jpeg -> worldover-landscape/worldover-landscape_0005.webp
+2025/06/08 04:10:21.458072 Processing file: worldover-img/AdobeStock_100580992.jpeg (type: image)
+2025/06/08 04:10:21.463090 Image size: 5382x3341, Crop area: 185,0 5011x3341
+2025/06/08 04:10:44.481808 Successfully processed image: worldover-img/AdobeStock_100580992.jpeg -> worldover-landscape/worldover-landscape_0006.webp
+2025/06/08 04:10:44.482825 Processing file: worldover-img/AdobeStock_101077204.jpeg (type: image)
+2025/06/08 04:10:44.492063 Image size: 4692x3030, Crop area: 73,0 4545x3030
+2025/06/08 04:11:13.833295 Successfully processed image: worldover-img/AdobeStock_101077204.jpeg -> worldover-landscape/worldover-landscape_0007.webp
+2025/06/08 04:11:13.834336 Processing file: worldover-img/AdobeStock_104257572.jpeg (type: image)
+2025/06/08 04:11:13.838761 Image size: 4867x3820, Crop area: 0,288 4867x3244
+2025/06/08 04:11:38.339382 Successfully processed image: worldover-img/AdobeStock_104257572.jpeg -> worldover-landscape/worldover-landscape_0008.webp
+2025/06/08 04:11:38.340630 Processing file: worldover-img/AdobeStock_104439577.jpeg (type: image)
+2025/06/08 04:11:38.346335 Image size: 5000x3600, Crop area: 0,133 5000x3333
+2025/06/08 04:12:12.771076 Successfully processed image: worldover-img/AdobeStock_104439577.jpeg -> worldover-landscape/worldover-landscape_0009.webp
+2025/06/08 04:12:12.874724 Processing batch 11-15 of 578 files
+2025/06/08 04:12:12.875060 Processing file: worldover-img/AdobeStock_105022746.jpeg (type: image)
+2025/06/08 04:12:12.885669 Image size: 5184x3457, Crop area: 0,0 5184x3456
+2025/06/08 04:12:40.446784 Successfully processed image: worldover-img/AdobeStock_105022746.jpeg -> worldover-landscape/worldover-landscape_0010.webp
+2025/06/08 04:12:40.447410 Processing file: worldover-img/AdobeStock_105810372.jpeg (type: image)
+2025/06/08 04:12:40.452063 Image size: 5184x3456, Crop area: 0,0 5184x3456
+2025/06/08 04:13:09.992119 Successfully processed image: worldover-img/AdobeStock_105810372.jpeg -> worldover-landscape/worldover-landscape_0011.webp
+2025/06/08 04:13:09.993220 Processing file: worldover-img/AdobeStock_106252957.jpeg (type: image)
+2025/06/08 04:13:09.996588 Image size: 4300x2848, Crop area: 14,0 4272x2848
+2025/06/08 04:13:29.503268 Successfully processed image: worldover-img/AdobeStock_106252957.jpeg -> worldover-landscape/worldover-landscape_0012.webp
+2025/06/08 04:13:29.503979 Processing file: worldover-img/AdobeStock_106252996.jpeg (type: image)
+2025/06/08 04:13:29.507415 Image size: 4300x2848, Crop area: 14,0 4272x2848
+2025/06/08 04:13:49.060635 Successfully processed image: worldover-img/AdobeStock_106252996.jpeg -> worldover-landscape/worldover-landscape_0013.webp
+2025/06/08 04:13:49.061141 Processing file: worldover-img/AdobeStock_106298942.jpeg (type: image)
+2025/06/08 04:13:49.064311 Image size: 5157x2846, Crop area: 444,0 4269x2846
+2025/06/08 04:14:07.107241 Successfully processed image: worldover-img/AdobeStock_106298942.jpeg -> worldover-landscape/worldover-landscape_0014.webp
+2025/06/08 04:14:07.209391 Processing batch 16-20 of 578 files
+2025/06/08 04:14:07.209487 Processing file: worldover-img/AdobeStock_107436455.jpeg (type: image)
+2025/06/08 04:14:07.212525 Image size: 5382x3341, Crop area: 185,0 5011x3341
+2025/06/08 04:14:31.060679 Successfully processed image: worldover-img/AdobeStock_107436455.jpeg -> worldover-landscape/worldover-landscape_0015.webp
+2025/06/08 04:14:31.061343 Processing file: worldover-img/AdobeStock_107526436.jpeg (type: image)
+2025/06/08 04:14:31.072533 Image size: 6421x4912, Crop area: 0,316 6421x4280
+2025/06/08 04:15:20.221486 Successfully processed image: worldover-img/AdobeStock_107526436.jpeg -> worldover-landscape/worldover-landscape_0016.webp
+2025/06/08 04:15:20.222224 Processing file: worldover-img/AdobeStock_107812209.jpeg (type: image)
+2025/06/08 04:15:20.226478 Image size: 7360x2454, Crop area: 1839,0 3681x2454
+2025/06/08 04:15:38.736511 Successfully processed image: worldover-img/AdobeStock_107812209.jpeg -> worldover-landscape/worldover-landscape_0017.webp
+2025/06/08 04:15:38.737203 Processing file: worldover-img/AdobeStock_107945922.jpeg (type: image)
+2025/06/08 04:15:38.740759 Image size: 6000x3258, Crop area: 556,0 4887x3258
+2025/06/08 04:16:03.393909 Successfully processed image: worldover-img/AdobeStock_107945922.jpeg -> worldover-landscape/worldover-landscape_0018.webp
+2025/06/08 04:16:03.394476 Processing file: worldover-img/AdobeStock_108452912.jpeg (type: image)
+2025/06/08 04:16:03.399713 Image size: 5153x3108, Crop area: 245,0 4662x3108
+2025/06/08 04:16:27.636207 Successfully processed image: worldover-img/AdobeStock_108452912.jpeg -> worldover-landscape/worldover-landscape_0019.webp
+2025/06/08 04:16:27.739411 Processing batch 21-25 of 578 files
+2025/06/08 04:16:27.741838 Processing file: worldover-img/AdobeStock_109102586.jpeg (type: image)
+2025/06/08 04:16:27.752511 Image size: 4608x3072, Crop area: 0,0 4608x3072
+2025/06/08 04:16:49.201258 Successfully processed image: worldover-img/AdobeStock_109102586.jpeg -> worldover-landscape/worldover-landscape_0020.webp
+2025/06/08 04:16:49.202007 Processing file: worldover-img/AdobeStock_109933097.jpeg (type: image)
+2025/06/08 04:16:49.206030 Image size: 4300x3096, Crop area: 0,115 4300x2866
+2025/06/08 04:17:08.241746 Successfully processed image: worldover-img/AdobeStock_109933097.jpeg -> worldover-landscape/worldover-landscape_0021.webp
+2025/06/08 04:17:08.242517 Processing file: worldover-img/AdobeStock_111971702.ai (type: unknown)
+2025/06/08 04:17:08.242562 Skipping unknown file type: worldover-img/AdobeStock_111971702.ai
+2025/06/08 04:17:08.242594 Processing file: worldover-img/AdobeStock_112237236.jpeg (type: image)
+2025/06/08 04:17:08.245013 Image size: 4500x3000, Crop area: 0,0 4500x3000
+2025/06/08 04:17:27.666661 Successfully processed image: worldover-img/AdobeStock_112237236.jpeg -> worldover-landscape/worldover-landscape_0022.webp
+2025/06/08 04:17:27.667528 Processing file: worldover-img/AdobeStock_112500296.jpeg (type: image)
+2025/06/08 04:17:27.673907 Image size: 6480x4320, Crop area: 0,0 6480x4320
+2025/06/08 04:18:13.163858 Successfully processed image: worldover-img/AdobeStock_112500296.jpeg -> worldover-landscape/worldover-landscape_0023.webp
+2025/06/08 04:18:13.267200 Processing batch 26-30 of 578 files
+2025/06/08 04:18:13.267388 Processing file: worldover-img/AdobeStock_113167243.jpeg (type: image)
+2025/06/08 04:18:13.273789 Image size: 5000x3000, Crop area: 250,0 4500x3000
+2025/06/08 04:18:38.794576 Successfully processed image: worldover-img/AdobeStock_113167243.jpeg -> worldover-landscape/worldover-landscape_0024.webp
+2025/06/08 04:18:38.795526 Processing file: worldover-img/AdobeStock_113931298 copy.jpeg (type: image)
+2025/06/08 04:18:38.805412 Image size: 7360x4912, Crop area: 0,3 7360x4906
+2025/06/08 04:19:30.793491 Successfully processed image: worldover-img/AdobeStock_113931298 copy.jpeg -> worldover-landscape/worldover-landscape_0025.webp
+2025/06/08 04:19:30.794463 Processing file: worldover-img/AdobeStock_114300127.jpeg (type: image)
+2025/06/08 04:19:30.797076 Image size: 3161x2500, Crop area: 0,196 3161x2107
+2025/06/08 04:19:40.405690 Successfully processed image: worldover-img/AdobeStock_114300127.jpeg -> worldover-landscape/worldover-landscape_0026.webp
+2025/06/08 04:19:40.408022 Processing file: worldover-img/AdobeStock_114302470.jpeg (type: image)
+2025/06/08 04:19:40.414812 Image size: 6016x4016, Crop area: 0,3 6016x4010
+2025/06/08 04:20:21.127320 Successfully processed image: worldover-img/AdobeStock_114302470.jpeg -> worldover-landscape/worldover-landscape_0027.webp
+2025/06/08 04:20:21.128707 Processing file: worldover-img/AdobeStock_114303281.jpeg (type: image)
+2025/06/08 04:20:21.134981 Image size: 6016x4016, Crop area: 0,3 6016x4010
+2025/06/08 04:21:02.661609 Successfully processed image: worldover-img/AdobeStock_114303281.jpeg -> worldover-landscape/worldover-landscape_0028.webp
+2025/06/08 04:21:02.764155 Processing batch 31-35 of 578 files
+2025/06/08 04:21:02.764648 Processing file: worldover-img/AdobeStock_114303473.jpeg (type: image)
+2025/06/08 04:21:02.775267 Image size: 6016x4016, Crop area: 0,3 6016x4010
+2025/06/08 04:21:46.037678 Successfully processed image: worldover-img/AdobeStock_114303473.jpeg -> worldover-landscape/worldover-landscape_0029.webp
+2025/06/08 04:21:46.038281 Processing file: worldover-img/AdobeStock_114305707.jpeg (type: image)
+2025/06/08 04:21:46.044453 Image size: 6016x4016, Crop area: 0,3 6016x4010
+2025/06/08 04:22:26.773008 Successfully processed image: worldover-img/AdobeStock_114305707.jpeg -> worldover-landscape/worldover-landscape_0030.webp
+2025/06/08 04:22:26.773682 Processing file: worldover-img/AdobeStock_114305749.jpeg (type: image)
+2025/06/08 04:22:26.779669 Image size: 6016x4016, Crop area: 0,3 6016x4010
+2025/06/08 04:23:06.122519 Successfully processed image: worldover-img/AdobeStock_114305749.jpeg -> worldover-landscape/worldover-landscape_0031.webp
+2025/06/08 04:23:06.123817 Processing file: worldover-img/AdobeStock_114305803.jpeg (type: image)
+2025/06/08 04:23:06.129584 Image size: 6016x4016, Crop area: 0,3 6016x4010
+2025/06/08 04:23:46.259605 Successfully processed image: worldover-img/AdobeStock_114305803.jpeg -> worldover-landscape/worldover-landscape_0032.webp
+2025/06/08 04:23:46.261055 Processing file: worldover-img/AdobeStock_114305925.jpeg (type: image)
+2025/06/08 04:23:46.266898 Image size: 6016x4016, Crop area: 0,3 6016x4010
+2025/06/08 04:24:26.065338 Successfully processed image: worldover-img/AdobeStock_114305925.jpeg -> worldover-landscape/worldover-landscape_0033.webp
+2025/06/08 04:24:26.168645 Processing batch 36-40 of 578 files
+2025/06/08 04:24:26.168969 Processing file: worldover-img/AdobeStock_114306092.jpeg (type: image)
+2025/06/08 04:24:26.179504 Image size: 6016x4016, Crop area: 0,3 6016x4010
+2025/06/08 04:25:05.269061 Successfully processed image: worldover-img/AdobeStock_114306092.jpeg -> worldover-landscape/worldover-landscape_0034.webp
+2025/06/08 04:25:05.269662 Processing file: worldover-img/AdobeStock_115667973.jpeg (type: image)
+2025/06/08 04:25:05.292580 Image size: 17000x3853, Crop area: 5610,0 5779x3853
+2025/06/08 04:25:42.624531 Successfully processed image: worldover-img/AdobeStock_115667973.jpeg -> worldover-landscape/worldover-landscape_0035.webp
+2025/06/08 04:25:42.625189 Processing file: worldover-img/AdobeStock_116032923.jpeg (type: image)
+2025/06/08 04:25:42.629834 Image size: 5523x2396, Crop area: 964,0 3594x2396
+2025/06/08 04:25:59.972206 Successfully processed image: worldover-img/AdobeStock_116032923.jpeg -> worldover-landscape/worldover-landscape_0036.webp
+2025/06/08 04:25:59.973306 Processing file: worldover-img/AdobeStock_116813174.jpeg (type: image)
+2025/06/08 04:25:59.975323 Image size: 4150x2567, Crop area: 150,0 3850x2567
+2025/06/08 04:26:08.481771 Successfully processed image: worldover-img/AdobeStock_116813174.jpeg -> worldover-landscape/worldover-landscape_0037.webp
+2025/06/08 04:26:08.482444 Processing file: worldover-img/AdobeStock_117698567.jpeg (type: image)
+2025/06/08 04:26:08.491484 Image size: 7270x4535, Crop area: 234,0 6802x4535
+2025/06/08 04:27:08.479554 File processing timed out for worldover-img/AdobeStock_117698567.jpeg
+2025/06/08 04:27:08.582421 Processing batch 41-45 of 578 files
+2025/06/08 04:27:08.583917 Processing file: worldover-img/AdobeStock_118191621.jpeg (type: image)
+2025/06/08 04:27:08.597428 Image size: 6624x1989, Crop area: 1820,0 2983x1989
+2025/06/08 04:27:18.000248 Successfully processed image: worldover-img/AdobeStock_118191621.jpeg -> worldover-landscape/worldover-landscape_0039.webp
+2025/06/08 04:27:18.001222 Processing file: worldover-img/AdobeStock_120188904.jpeg (type: image)
+2025/06/08 04:27:18.004181 Image size: 4000x2667, Crop area: 0,0 4000x2666
+2025/06/08 04:27:29.133225 Successfully processed image: worldover-img/AdobeStock_117698567.jpeg -> worldover-landscape/worldover-landscape_0038.webp
+2025/06/08 04:27:38.015844 Successfully processed image: worldover-img/AdobeStock_120188904.jpeg -> worldover-landscape/worldover-landscape_0040.webp
+2025/06/08 04:27:38.016648 Processing file: worldover-img/AdobeStock_121416944.jpeg (type: image)
+2025/06/08 04:27:38.022556 Image size: 2907x2349, Crop area: 0,205 2907x1938
+2025/06/08 04:27:49.308819 Successfully processed image: worldover-img/AdobeStock_121416944.jpeg -> worldover-landscape/worldover-landscape_0041.webp
+2025/06/08 04:27:49.309768 Processing file: worldover-img/AdobeStock_121600401.jpeg (type: image)
+2025/06/08 04:27:49.316810 Image size: 5229x3043, Crop area: 332,0 4564x3043
+2025/06/08 04:28:19.305785 Successfully processed image: worldover-img/AdobeStock_121600401.jpeg -> worldover-landscape/worldover-landscape_0042.webp
+2025/06/08 04:28:19.306407 Processing file: worldover-img/AdobeStock_122880842.jpeg (type: image)
+2025/06/08 04:28:19.309335 Image size: 4927x3071, Crop area: 160,0 4606x3071
+2025/06/08 04:28:41.107530 Successfully processed image: worldover-img/AdobeStock_122880842.jpeg -> worldover-landscape/worldover-landscape_0043.webp
+2025/06/08 04:28:41.210795 Processing batch 46-50 of 578 files
+2025/06/08 04:28:41.211173 Processing file: worldover-img/AdobeStock_123408611.jpeg (type: image)
+2025/06/08 04:28:41.223026 Image size: 5036x4379, Crop area: 0,511 5036x3357
+2025/06/08 04:29:12.593790 Successfully processed image: worldover-img/AdobeStock_123408611.jpeg -> worldover-landscape/worldover-landscape_0044.webp
+2025/06/08 04:29:12.594644 Processing file: worldover-img/AdobeStock_125467137.jpeg (type: image)
+2025/06/08 04:29:12.599483 Image size: 4506x2984, Crop area: 15,0 4476x2984
+2025/06/08 04:29:38.871383 Successfully processed image: worldover-img/AdobeStock_125467137.jpeg -> worldover-landscape/worldover-landscape_0045.webp
+2025/06/08 04:29:38.871985 Processing file: worldover-img/AdobeStock_125528645.jpeg (type: image)
+2025/06/08 04:29:38.875031 Image size: 2800x2100, Crop area: 0,117 2800x1866
+2025/06/08 04:29:51.307687 Successfully processed image: worldover-img/AdobeStock_125528645.jpeg -> worldover-landscape/worldover-landscape_0046.webp
+2025/06/08 04:29:51.308308 Processing file: worldover-img/AdobeStock_125727943.jpeg (type: image)
+2025/06/08 04:29:51.311928 Image size: 6500x4108, Crop area: 169,0 6162x4108
+2025/06/08 04:30:26.541974 Successfully processed image: worldover-img/AdobeStock_125727943.jpeg -> worldover-landscape/worldover-landscape_0047.webp
+2025/06/08 04:30:26.542913 Processing file: worldover-img/AdobeStock_128450143.jpeg (type: image)
+2025/06/08 04:30:26.546324 Image size: 4764x3149, Crop area: 20,0 4723x3149
+2025/06/08 04:30:49.423824 Successfully processed image: worldover-img/AdobeStock_128450143.jpeg -> worldover-landscape/worldover-landscape_0048.webp
+2025/06/08 04:30:49.526144 Processing batch 51-55 of 578 files
+2025/06/08 04:30:49.526365 Processing file: worldover-img/AdobeStock_128716300.jpeg (type: image)
+2025/06/08 04:30:49.530947 Image size: 5810x2582, Crop area: 968,0 3873x2582
+2025/06/08 04:31:06.678471 Successfully processed image: worldover-img/AdobeStock_128716300.jpeg -> worldover-landscape/worldover-landscape_0049.webp
+2025/06/08 04:31:06.679084 Processing file: worldover-img/AdobeStock_129099619.jpeg (type: image)
+2025/06/08 04:31:06.680386 Image size: 2900x2100, Crop area: 0,83 2900x1933
+2025/06/08 04:31:09.819509 Successfully processed image: worldover-img/AdobeStock_129099619.jpeg -> worldover-landscape/worldover-landscape_0050.webp
+2025/06/08 04:31:09.820198 Processing file: worldover-img/AdobeStock_130913957.jpeg (type: image)
+2025/06/08 04:31:09.825374 Image size: 6000x3000, Crop area: 750,0 4500x3000
+2025/06/08 04:31:37.877115 Successfully processed image: worldover-img/AdobeStock_130913957.jpeg -> worldover-landscape/worldover-landscape_0051.webp
+2025/06/08 04:31:37.877748 Processing file: worldover-img/AdobeStock_131693567.jpeg (type: image)
+2025/06/08 04:31:37.880352 Image size: 4500x2945, Crop area: 41,0 4417x2945
+2025/06/08 04:31:59.302337 Successfully processed image: worldover-img/AdobeStock_131693567.jpeg -> worldover-landscape/worldover-landscape_0052.webp
+2025/06/08 04:31:59.303064 Processing file: worldover-img/AdobeStock_133104624.jpeg (type: image)
+2025/06/08 04:31:59.307628 Image size: 4245x2830, Crop area: 0,0 4245x2830
+2025/06/08 04:32:20.851572 Successfully processed image: worldover-img/AdobeStock_133104624.jpeg -> worldover-landscape/worldover-landscape_0053.webp
+2025/06/08 04:32:20.953796 Processing batch 56-60 of 578 files
+2025/06/08 04:32:20.953955 Processing file: worldover-img/AdobeStock_133747804.jpeg (type: image)
+2025/06/08 04:32:20.960156 Image size: 7054x4708, Crop area: 0,3 7054x4702
+2025/06/08 04:33:20.953852 File processing timed out for worldover-img/AdobeStock_133747804.jpeg
+2025/06/08 04:33:20.953969 Processing file: worldover-img/AdobeStock_134503315.jpeg (type: image)
+2025/06/08 04:33:20.962963 Image size: 6000x4000, Crop area: 0,0 6000x4000
+2025/06/08 04:33:25.002969 Successfully processed image: worldover-img/AdobeStock_133747804.jpeg -> worldover-landscape/worldover-landscape_0054.webp
+2025/06/08 04:33:58.386486 Successfully processed image: worldover-img/AdobeStock_134503315.jpeg -> worldover-landscape/worldover-landscape_0055.webp
+2025/06/08 04:33:58.387083 Processing file: worldover-img/AdobeStock_134778892.jpeg (type: image)
+2025/06/08 04:33:58.393278 Image size: 5621x3861, Crop area: 0,57 5621x3747
+2025/06/08 04:34:33.218014 Successfully processed image: worldover-img/AdobeStock_134778892.jpeg -> worldover-landscape/worldover-landscape_0056.webp
+2025/06/08 04:34:33.218623 Processing file: worldover-img/AdobeStock_134948475.ai (type: unknown)
+2025/06/08 04:34:33.218715 Skipping unknown file type: worldover-img/AdobeStock_134948475.ai
+2025/06/08 04:34:33.218737 Processing file: worldover-img/AdobeStock_135477518.jpeg (type: image)
+2025/06/08 04:34:33.220917 Image size: 4494x3000, Crop area: 0,2 4494x2996
+2025/06/08 04:34:55.428772 Successfully processed image: worldover-img/AdobeStock_135477518.jpeg -> worldover-landscape/worldover-landscape_0057.webp
+2025/06/08 04:34:55.531434 Processing batch 61-65 of 578 files
+2025/06/08 04:34:55.531707 Processing file: worldover-img/AdobeStock_136719707.jpeg (type: image)
+2025/06/08 04:34:55.544565 Image size: 6016x4016, Crop area: 0,3 6016x4010
+2025/06/08 04:35:41.302142 Successfully processed image: worldover-img/AdobeStock_136719707.jpeg -> worldover-landscape/worldover-landscape_0058.webp
+2025/06/08 04:35:41.302669 Processing file: worldover-img/AdobeStock_136721848.jpeg (type: image)
+2025/06/08 04:35:41.307706 Image size: 5871x3919, Crop area: 0,2 5871x3914
+2025/06/08 04:36:17.646436 Successfully processed image: worldover-img/AdobeStock_136721848.jpeg -> worldover-landscape/worldover-landscape_0059.webp
+2025/06/08 04:36:17.647047 Processing file: worldover-img/AdobeStock_137774174.ai (type: unknown)
+2025/06/08 04:36:17.647101 Skipping unknown file type: worldover-img/AdobeStock_137774174.ai
+2025/06/08 04:36:17.647126 Processing file: worldover-img/AdobeStock_138693478.jpeg (type: image)
+2025/06/08 04:36:17.653226 Image size: 8360x4618, Crop area: 716,0 6927x4618
+2025/06/08 04:37:06.650438 Successfully processed image: worldover-img/AdobeStock_138693478.jpeg -> worldover-landscape/worldover-landscape_0060.webp
+2025/06/08 04:37:06.651587 Processing file: worldover-img/AdobeStock_138736499.jpeg (type: image)
+2025/06/08 04:37:06.655464 Image size: 5760x3416, Crop area: 318,0 5124x3416
+2025/06/08 04:37:33.962794 Successfully processed image: worldover-img/AdobeStock_138736499.jpeg -> worldover-landscape/worldover-landscape_0061.webp
+2025/06/08 04:37:34.066055 Processing batch 66-70 of 578 files
+2025/06/08 04:37:34.066145 Processing file: worldover-img/AdobeStock_138807217.jpeg (type: image)
+2025/06/08 04:37:34.076309 Image size: 6627x4418, Crop area: 0,0 6627x4418
+2025/06/08 04:38:34.065724 File processing timed out for worldover-img/AdobeStock_138807217.jpeg
+2025/06/08 04:38:34.067073 Processing file: worldover-img/AdobeStock_138833073.jpeg (type: image)
+2025/06/08 04:38:34.089704 Image size: 4874x3249, Crop area: 0,0 4873x3249
+2025/06/08 04:38:36.824172 Successfully processed image: worldover-img/AdobeStock_138807217.jpeg -> worldover-landscape/worldover-landscape_0062.webp
+2025/06/08 04:39:12.669353 Successfully processed image: worldover-img/AdobeStock_138833073.jpeg -> worldover-landscape/worldover-landscape_0063.webp
+2025/06/08 04:39:12.671514 Processing file: worldover-img/AdobeStock_140188381.jpeg (type: image)
+2025/06/08 04:39:12.674796 Image size: 4000x2667, Crop area: 0,0 4000x2666
+2025/06/08 04:39:31.652217 Successfully processed image: worldover-img/AdobeStock_140188381.jpeg -> worldover-landscape/worldover-landscape_0064.webp
+2025/06/08 04:39:31.652896 Processing file: worldover-img/AdobeStock_141254872.jpeg (type: image)
+2025/06/08 04:39:31.659098 Image size: 5616x3744, Crop area: 0,0 5616x3744
+2025/06/08 04:40:07.334282 Successfully processed image: worldover-img/AdobeStock_141254872.jpeg -> worldover-landscape/worldover-landscape_0065.webp
+2025/06/08 04:40:07.335263 Processing file: worldover-img/AdobeStock_141825140.jpeg (type: image)
+2025/06/08 04:40:07.341005 Image size: 8688x5792, Crop area: 0,0 8688x5792

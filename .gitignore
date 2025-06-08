@@ -10,6 +10,15 @@ mach-vid/
 mach-img-landscape/
 mach-img-port/
 mach-img-portrait/
+profile/
+luminous-img/
+luminous/
+luminous_img/
+.DS_Store
+worldover-img/
+worldover-landscape/
+advideo-vid/
+advideo/
 <<<<<<< HEAD
 profile/
 luminous-img/
