@@ -67,12 +67,17 @@ Adjust the values according to your requirements.
 
 2. Run the program:
    ```
-   go run main.go
+   go run *.go
    ```
 
 3. The program will process all images and videos in the specified input folder and save the results in the output folder.
 
 4. Check the `conversion.log` file for detailed information about the processing.
+
+5. You can as well Compile it and run it:
+```
+   go build -v .
+```
 
 ## How It Works
 
